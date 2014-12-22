@@ -9,9 +9,9 @@ maven - [download](http://maven.apache.org/download.cgi) -
 a shell - mac/linux use the terminal. - windows use [cygwin](https://www.cygwin.com/)
 
 ### installation
-git clone https://jtoprocessing.github.com/processing-deps.git
-cd processing-deps
-./install.sh
+     git clone https://jtoprocessing.github.com/processing-deps.git
+     cd processing-deps
+     ./install.sh
 
 ### usage with maven
 to run processing you need at least this much in your <code>pom.xml</code> file:
