@@ -9,7 +9,7 @@ maven - [download](http://maven.apache.org/download.cgi) -
 a shell - mac/linux use the terminal. - windows use [cygwin](https://www.cygwin.com/)
 
 ### installation
-     git clone https://jtoprocessing.github.com/processing-deps.git
+     git clone https://github.com/josephtaylor/processing-deps.git
      cd processing-deps
      ./install.sh
 
