@@ -17,7 +17,7 @@ a shell - mac/linux use the terminal. - windows use [cygwin](https://www.cygwin.
 to run processing you need at least this much in your <code>pom.xml</code> file:
 <pre><code>  &lt;dependencies&gt;
 	&lt;dependency&gt;
-		&lt;groupId&gt;processing.org&lt;/groupId&gt;
+		&lt;groupId&gt;org.processing&lt;/groupId&gt;
 		&lt;artifactId&gt;processing-core&lt;/artifactId&gt;
 		&lt;version&gt;2.2.1&lt;/version&gt;
 	&lt;/dependency&gt;
