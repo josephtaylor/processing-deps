@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 mvn install:install-file -DgroupId=org.processing -DartifactId=processing-core -Dversion=2.2.1 -Dpackaging=jar -Dfile=core.jar
 
@@ -21,3 +21,5 @@ mvn install:install-file -DgroupId=org.processing.wiki -DartifactId=triangulate 
 mvn install:install-file -DgroupId=de.sojamo -DartifactId=oscP5 -Dversion=1.0 -Dpackaging=jar -Dfile=oscP5.jar
 
 mvn install:install-file -DgroupId=eskimoblood -DartifactId=surfaceLib -Dversion=1.2 -Dpackaging=jar -Dfile=surfaceLib.jar
+
+mvn install:install-file -DgroupId=net.ubaa -DartifactId=udp -Dversion=0.1 -Dpackaging=jar -Dfile=udp.jar

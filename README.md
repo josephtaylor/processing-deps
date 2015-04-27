@@ -96,6 +96,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;version&gt;1.2&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
+### udp
+<pre><code>&lt;dependency&gt;
+        &lt;groupId&gt;net.ubaa&lt;/groupId&gt;
+        &lt;artifactId&gt;udp&lt;/artifactId&gt;
+        &lt;version&gt;0.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Contributing
 Don't see your favorite libraries?<br/>
 Fork this and add stuff, I'll pull in whatever you want.
