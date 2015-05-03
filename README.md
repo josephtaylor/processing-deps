@@ -120,7 +120,7 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;version&gt;0.1&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
-For this library, set <code>-Djava.library.path</code> to the appropriate folder in the video folder.
+[Usage Example](http://github.com/josephtaylor/video-test)
 
 ### Contributing
 Don't see your favorite libraries?<br/>
