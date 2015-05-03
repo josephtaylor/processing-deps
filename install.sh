@@ -6,7 +6,7 @@ mvn install:install-file -DgroupId=jto.processing -DartifactId=color-scheme -Dve
 
 mvn install:install-file -DgroupId=net.v3ga -DartifactId=blobDetection -Dversion=2012.10 -Dpackaging=jar -Dfile=blobDetection.jar
 
-# FOR GEOMERATIVE
+# GEOMERATIVE
 mvn install:install-file -DgroupId=geomerative -DartifactId=geomerative -Dversion=34 -Dpackaging=jar -Dfile=geomerative.jar
 
 mvn install:install-file -DgroupId=batikfont -DartifactId=batikfont -Dversion=1.0 -Dpackaging=jar -Dfile=batikfont.jar
@@ -23,3 +23,11 @@ mvn install:install-file -DgroupId=de.sojamo -DartifactId=oscP5 -Dversion=1.0 -D
 mvn install:install-file -DgroupId=eskimoblood -DartifactId=surfaceLib -Dversion=1.2 -Dpackaging=jar -Dfile=surfaceLib.jar
 
 mvn install:install-file -DgroupId=net.ubaa -DartifactId=udp -Dversion=0.1 -Dpackaging=jar -Dfile=udp.jar
+
+# VIDEO
+mvn install:install-file -DgroupId=org.processing -DartifactId=processing-video -Dversion=1.0 -Dpackaging=jar -Dfile=video/video.jar
+
+mvn install:install-file -DgroupId=org.processing -DartifactId=processing-video-gstreamer -Dversion=1.0 -Dpackaging=jar -Dfile=video/gstreamer-java.jar
+
+mvn install:install-file -DgroupId=org.processing -DartifactId=processing-video-jna -Dversion=1.0 -Dpackaging=jar -Dfile=video/jna.jar
+# END VIDEO
