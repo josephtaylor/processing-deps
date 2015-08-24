@@ -1,6 +1,8 @@
 #!/bin/sh
 
-mvn install:install-file -DgroupId=org.processing -DartifactId=processing-core -Dversion=2.2.1 -Dpackaging=jar -Dfile=core.jar
+mvn install:install-file -DgroupId=org.processing -DartifactId=processing-core -Dversion=2.2.1 -Dpackaging=jar -Dfile=2.2.1/core.jar
+
+mvn install:install-file -DgroupId=org.processing -DartifactId=processing-core -Dversion=3.0b4 -Dpackaging=jar -Dfile=3.0b4/core.jar
 
 mvn install:install-file -DgroupId=jto.processing -DartifactId=color-scheme -Dversion=0.0.2 -Dpackaging=jar -Dfile=ColorScheme.jar
 
