@@ -68,7 +68,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;version&gt;1.0&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
-### controlP5
+### controlP5 - 2.2.5
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;controlP5&lt;/groupId&gt;
+	&lt;artifactId&gt;controlP5&lt;/artifactId&gt;
+	&lt;version&gt;2.2.5&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+### controlP5 - 2.0.4
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;controlP5&lt;/groupId&gt;
 	&lt;artifactId&gt;controlP5&lt;/artifactId&gt;
