@@ -19,7 +19,7 @@ mvn install:install-file -DgroupId=rwmidi -DartifactId=rwmidi -Dversion=1.0 -Dpa
 # CONTROLP5
 mvn install:install-file -DgroupId=controlP5 -DartifactId=controlP5 -Dversion=2.0.4 -Dpackaging=jar -Dfile=controlP5/controlP5-2.0.4.jar
 
-mvn install:install-file -DgroupId=controlP5 -DartifactId=controlP5 -Dversion=2.0.4 -Dpackaging=jar -Dfile=controlP5/controlP5-2.0.4.jar
+mvn install:install-file -DgroupId=controlP5 -DartifactId=controlP5 -Dversion=2.2.5 -Dpackaging=jar -Dfile=controlP5/controlP5-2.2.5.jar
 # END CONTROLP5
 
 mvn install:install-file -DgroupId=org.processing.wiki -DartifactId=triangulate -Dversion=1.0 -Dpackaging=jar -Dfile=triangulate.jar
