@@ -4,6 +4,8 @@ mvn install:install-file -DgroupId=org.processing -DartifactId=processing-core -
 
 mvn install:install-file -DgroupId=org.processing -DartifactId=processing-core -Dversion=3.0b4 -Dpackaging=jar -Dfile=3.0b4/core.jar
 
+mvn install:install-file -DgroupId=org.processing -DartifactId=processing-core -Dversion=3.0 -Dpackaging=jar -Dfile=3.0/core.jar
+
 mvn install:install-file -DgroupId=jto.processing -DartifactId=color-scheme -Dversion=0.0.2 -Dpackaging=jar -Dfile=ColorScheme.jar
 
 mvn install:install-file -DgroupId=net.v3ga -DartifactId=blobDetection -Dversion=2012.10 -Dpackaging=jar -Dfile=blobDetection.jar

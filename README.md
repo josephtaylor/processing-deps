@@ -19,7 +19,7 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;dependency&gt;
 		&lt;groupId&gt;org.processing&lt;/groupId&gt;
 		&lt;artifactId&gt;processing-core&lt;/artifactId&gt;
-		&lt;version&gt;2.2.1&lt;/version&gt;
+		&lt;version&gt;3.0&lt;/version&gt;
 	&lt;/dependency&gt;
 	&lt;dependency&gt;
 		&lt;groupId&gt;org.jogamp.gluegen&lt;/groupId&gt;
