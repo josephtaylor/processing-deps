@@ -13,7 +13,7 @@ a shell - mac/linux use the terminal. - windows use [cygwin](https://www.cygwin.
      cd processing-deps
      ./install.sh
 
-### usage with maven
+### usage with maven for Processing 3
 to run processing you need at least this much in your <code>pom.xml</code> file:
 <pre><code>  &lt;dependencies&gt;
 	&lt;dependency&gt;
@@ -24,14 +24,35 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;dependency&gt;
 		&lt;groupId&gt;org.jogamp.gluegen&lt;/groupId&gt;
 		&lt;artifactId&gt;gluegen-rt-main&lt;/artifactId&gt;
-		&lt;version&gt;2.2.4&lt;/version&gt;
+		&lt;version&gt;2.3.1&lt;/version&gt;
 	&lt;/dependency&gt;
 	&lt;dependency&gt;
 		&lt;groupId&gt;org.jogamp.jogl&lt;/groupId&gt;
 		&lt;artifactId&gt;jogl-all-main&lt;/artifactId&gt;
-		&lt;version&gt;2.2.4&lt;/version&gt;
+		&lt;version&gt;2.3.1&lt;/version&gt;
 	&lt;/dependency&gt;
 &lt;/dependencies&gt;</code></pre>
+
+### usage with maven for Processing 2.2.1
+to run processing you need at least this much in your <code>pom.xml</code> file:
+<pre><code>  &lt;dependencies&gt;
+        &lt;dependency&gt;
+                &lt;groupId&gt;org.processing&lt;/groupId&gt;
+                &lt;artifactId&gt;processing-core&lt;/artifactId&gt;
+                &lt;version&gt;2.2.1&lt;/version&gt;
+        &lt;/dependency&gt;
+        &lt;dependency&gt;
+                &lt;groupId&gt;org.jogamp.gluegen&lt;/groupId&gt;
+                &lt;artifactId&gt;gluegen-rt-main&lt;/artifactId&gt;
+                &lt;version&gt;2.2.4&lt;/version&gt;
+        &lt;/dependency&gt;
+        &lt;dependency&gt;
+                &lt;groupId&gt;org.jogamp.jogl&lt;/groupId&gt;
+                &lt;artifactId&gt;jogl-all-main&lt;/artifactId&gt;
+                &lt;version&gt;2.2.4&lt;/version&gt;
+        &lt;/dependency&gt;
+&lt;/dependencies&gt;</code></pre>
+
 
 ### pom entries for each plugin
 
