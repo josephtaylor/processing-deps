@@ -1,0 +1,4 @@
+G4P changes incorporated into 
+
+V0.1.4
+The getEdgeList(...) methods now retun an empty list if the node has no edges.

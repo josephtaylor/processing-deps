@@ -1,0 +1,2 @@
+applet=colladaLoader.jar
+application=colladaLoader.jar

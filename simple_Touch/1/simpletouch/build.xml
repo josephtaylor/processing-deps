@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<project name="Processing Simple Touch Library" default="build">
+  
+  <target name="clean" description="Clean the build directories">
+    <delete dir="bin" />
+    <delete file="library/simpletouch.jar" />
+  </target>
+  
+  <target name="compile" description="Compile sources">
+    <condition property="core-built">
+      <available file="../processing/core/library/core.jar" />
+    </condition>
+    <fail unless="core-built" message="Please build the core library first and make sure it sits in ../processing/core/library/core.jar" />
+    
+    <mkdir dir="bin" />
+    <javac source="1.7"
+	   target="1.7"
+	   srcdir="src" destdir="bin" 
+	   encoding="UTF-8"
+	   includeAntRuntime="false"
+	   classpath="../processing/core/library/core.jar"
+	   nowarn="true">
+      <compilerclasspath path="../../mode/org.eclipse.jdt.core.jar; 
+                               ../../mode/jdtCompilerAdapter.jar" />
+    </javac>
+  </target>
+
+  <target name="javadoc">
+    <javadoc bottom="Processing Library Simple Touch by Gottfried Haider"
+        classpath="../processing/core/library/core.jar"
+        destdir="reference"
+        verbose="false"
+        stylesheetfile="reference/stylesheet.css"
+        doctitle="Javadocs: Simple Touch"
+        public="true" version="false"
+        windowtitle="Javadocs: Simple Touch">
+      <fileset dir="src/processing" defaultexcludes="yes">
+      <!-- add packages to be added to reference. -->
+        <include name="**/*"/>
+      </fileset>
+    </javadoc>
+  </target>
+  
+  <target name="build" depends="compile" description="Build Simple Touch library">
+    <jar basedir="bin" destfile="library/simpletouch.jar" />
+  </target>
+</project>

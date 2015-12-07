@@ -1,0 +1,54 @@
+QScript changes incorporated into version
+
+
+V2.2
+No code changes just minor updates to examples to make it fully compatible with both Processing 2 and 3
+
+V2.1
+Vector data type added
+
+Complex number data type added
+
+Methods isNumeric(), isDouble(), isThing() etc have been removed use these variables instead
+isNull isString isInteger isDouble isBoolean isVector isComplex isThing isNumeric
+If you have created your own functions simple remove the '()' to use the attribute
+rather than the function.
+
+Syntax error messages have been made more descriptive over  2.1 
+Improved recognition for unary +- signs.
+
+Scripts can now have comments. The start of a comment is indicated by the
+hash symbol '#' and continues to the end of the line. In other words they 
+behave just like // in Java and Processing
+
+
+V2.0
+To make their purpose clearer the following classes have been renamed
+    ParseErrorEvent class has been renamed to SyntaxErrorEvent
+    ParseTokenEvent class has been renamed to TraceEvent
+    BaseException class has been renamed to ScriptException
+
+log(n,b) method added. Calculate the logarithm to the base b of the number n
+
+Tokeniser now uses regular expressions making the code clearer and more 
+maintainable. It means that although it detects all syntax errors the error
+messages are less informative.
+
+Variable names no longer have to start with $ (but will still accept them)
+as a result of using regular expressions. 
+
+Implementation of time limit changed so that WAIT time and trace delay time 
+is ignored.
+
+Default time limit reduced to 5 seconds because it only applies to evaluation
+time.
+
+In the Operator class the resolve method signature has changed. If you have 
+created your own operators/methods then you will have to modify them.
+
+The extras parameter in the ScriptEvent and child classes has been changed 
+from Object to Object[] so more information can be passed to the event handlers.
+
+The Thing class has been added so QScript can work with user defined classes
+that can be scripted.
+

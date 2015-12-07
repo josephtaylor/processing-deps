@@ -1,0 +1,24 @@
+Shapes 3D changes incorporated into version
+
+V2.2
+Updated for PS3
+
+User can decide to disable stroke optimization to avoid visual artifacts. Use
+Shape3D.setOptimizedStrokeOn(true/false)
+
+Examples that use G$P controls have been updated for G4P 4.0
+
+V2.1.5
+BezTubeEditor example has been updated for changes made to PVector since 
+this example was first created.
+
+All examples that use G4P have been updated for G4P v3.5
+
+When two shapes overlapped it was possible that anti-aliasing could cause 
+another shape altogether to be picked . Pick buffer mow uses the noSmooth 
+option to prevent this occurring. (reported and solution provided by Eron Gjoni)
+
+A bug in the shape picking algorithm that caused numerous 'misses' has now
+been fixed. Recommend you read API for Shapes3D.pickShape(...)
+
+
