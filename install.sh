@@ -83,9 +83,15 @@ mvn install:install-file -DgroupId=hermes -DartifactId=hermes -Dversion=2.0 -Dpa
 
 mvn install:install-file -DgroupId=collada_Loader_for_Google_Sketchup -DartifactId=collada_Loader_for_Google_Sketchup -Dversion=3.0b -Dpackaging=jar -Dfile=/opt/dev/processing-deps/collada_Loader_for_Google_Sketchup/3.0b/colladaLoader/library/colladaLoader.jar
 
+mvn install:install-file -DgroupId=g4P -DartifactId=g4P -Dversion=4.0.3 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/g4P/4.0.3/G4P/library/G4P.jar
+
+mvn install:install-file -DgroupId=drop -DartifactId=drop -Dversion=1.0.1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/drop/1.0.1/Drop/library/Drop.jar
+
 mvn install:install-file -DgroupId=sFTP -DartifactId=sFTP -Dversion=0.1a -Dpackaging=jar -Dfile=/opt/dev/processing-deps/sFTP/0.1a/sftp/library/sftp.jar
 
 mvn install:install-file -DgroupId=soundCloud -DartifactId=soundCloud -Dversion=0.1.6 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/soundCloud/0.1.6/SoundCloud/library/SoundCloud.jar
+
+mvn install:install-file -DgroupId=temboo -DartifactId=temboo -Dversion=2.14.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/temboo/2.14.0/temboo/library/choreos.jar
 
 mvn install:install-file -DgroupId=simple_Multi_Touch_SMT -DartifactId=simple_Multi_Touch_SMT -Dversion=4.2 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/simple_Multi_Touch_SMT/4.2/SMT/library/SMT.jar
 
@@ -181,6 +187,8 @@ mvn install:install-file -DgroupId=computationalGeometry -DartifactId=computatio
 
 mvn install:install-file -DgroupId=ezGestures -DartifactId=ezGestures -Dversion=1.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/ezGestures/1.0/ezGestures/library/ezGestures.jar
 
+mvn install:install-file -DgroupId=collada_Loader_for_SketchUp_and_Blender -DartifactId=collada_Loader_for_SketchUp_and_Blender -Dversion=3.1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/collada_Loader_for_SketchUp_and_Blender/3.1/colladaLoader/library/colladaLoader.jar
+
 mvn install:install-file -DgroupId=minim -DartifactId=minim -Dversion=2.2.2 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/minim/2.2.2/minim/library/mp3spi1.9.5.jar
 
 mvn install:install-file -DgroupId=arduino_Firmata -DartifactId=arduino_Firmata -Dversion=7 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/arduino_Firmata/7/arduino/library/Arduino.jar
@@ -194,6 +202,8 @@ mvn install:install-file -DgroupId=gML4U -DartifactId=gML4U -Dversion=0.1.9 -Dpa
 mvn install:install-file -DgroupId=apple_Light_Sensor -DartifactId=apple_Light_Sensor -Dversion=1.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/apple_Light_Sensor/1.0/AmbientLightSensor/library/AmbientLightSensor.jar
 
 mvn install:install-file -DgroupId=pixelPusher -DartifactId=pixelPusher -Dversion=20141222 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/pixelPusher/20141222/PixelPusher/library/PixelPusher.jar
+
+mvn install:install-file -DgroupId=riTa -DartifactId=riTa -Dversion=1.1.27 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/riTa/1.1.27/RiTa/library/rita.jar
 
 mvn install:install-file -DgroupId=mapThing -DartifactId=mapThing -Dversion=1.4 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/mapThing/1.4/MapThing/library/geoapi-2.3-M1.jar
 

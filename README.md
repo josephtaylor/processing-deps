@@ -395,6 +395,22 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### G4P - 4.0.3
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;g4P&lt;/groupId&gt;
+	&lt;artifactId&gt;g4P&lt;/artifactId&gt;
+	&lt;version&gt;4.0.3&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Drop - 1.0.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;drop&lt;/groupId&gt;
+	&lt;artifactId&gt;drop&lt;/artifactId&gt;
+	&lt;version&gt;1.0.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### SFTP - 0.1a
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;sFTP&lt;/groupId&gt;
@@ -408,6 +424,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;soundCloud&lt;/groupId&gt;
 	&lt;artifactId&gt;soundCloud&lt;/artifactId&gt;
 	&lt;version&gt;0.1.6&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Temboo - 2.14.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;temboo&lt;/groupId&gt;
+	&lt;artifactId&gt;temboo&lt;/artifactId&gt;
+	&lt;version&gt;2.14.0&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -787,6 +811,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Collada Loader for SketchUp and Blender - 3.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;collada_Loader_for_SketchUp_and_Blender&lt;/groupId&gt;
+	&lt;artifactId&gt;collada_Loader_for_SketchUp_and_Blender&lt;/artifactId&gt;
+	&lt;version&gt;3.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Minim - 2.2.2
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;minim&lt;/groupId&gt;
@@ -840,6 +872,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;pixelPusher&lt;/groupId&gt;
 	&lt;artifactId&gt;pixelPusher&lt;/artifactId&gt;
 	&lt;version&gt;20141222&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### RiTa - 1.1.27
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;riTa&lt;/groupId&gt;
+	&lt;artifactId&gt;riTa&lt;/artifactId&gt;
+	&lt;version&gt;1.1.27&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
