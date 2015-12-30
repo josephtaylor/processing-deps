@@ -91,6 +91,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Camera 3D - 1.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;camera_3D&lt;/groupId&gt;
+	&lt;artifactId&gt;camera_3D&lt;/artifactId&gt;
+	&lt;version&gt;1.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### XlsReader - 0.1.1
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;xlsReader&lt;/groupId&gt;
@@ -160,6 +168,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;mindSet_Processing&lt;/groupId&gt;
 	&lt;artifactId&gt;mindSet_Processing&lt;/artifactId&gt;
 	&lt;version&gt;0.1.2&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### MQTT - 1.6.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;mQTT&lt;/groupId&gt;
+	&lt;artifactId&gt;mQTT&lt;/artifactId&gt;
+	&lt;version&gt;1.6.0&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -355,6 +371,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Leap Motion for Processing - 2.3.1.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;leap_Motion_for_Processing&lt;/groupId&gt;
+	&lt;artifactId&gt;leap_Motion_for_Processing&lt;/artifactId&gt;
+	&lt;version&gt;2.3.1.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### grafica - 1.3.0
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;grafica&lt;/groupId&gt;
@@ -544,6 +568,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;oOCSI_for_Processing&lt;/groupId&gt;
 	&lt;artifactId&gt;oOCSI_for_Processing&lt;/artifactId&gt;
 	&lt;version&gt;0.8&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Drop - 1.0.2
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;drop&lt;/groupId&gt;
+	&lt;artifactId&gt;drop&lt;/artifactId&gt;
+	&lt;version&gt;1.0.2&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 

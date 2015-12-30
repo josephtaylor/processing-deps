@@ -7,6 +7,8 @@ mvn install:install-file -DgroupId=yahooWeather -DartifactId=yahooWeather -Dvers
 
 mvn install:install-file -DgroupId=vSync_for_Processing -DartifactId=vSync_for_Processing -Dversion=v0.1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/vSync_for_Processing/v0.1/VSync/library/VSync.jar
 
+mvn install:install-file -DgroupId=camera_3D -DartifactId=camera_3D -Dversion=1.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/camera_3D/1.0/Camera3D/library/Camera3D.jar
+
 mvn install:install-file -DgroupId=xlsReader -DartifactId=xlsReader -Dversion=0.1.1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/xlsReader/0.1.1/XlsReader/library/XlsReader.jar
 
 mvn install:install-file -DgroupId=blinkStick -DartifactId=blinkStick -Dversion=0.2.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/blinkStick/0.2.0/BlinkStick/library/BlinkStick.jar
@@ -24,6 +26,8 @@ mvn install:install-file -DgroupId=jasmine -DartifactId=jasmine -Dversion=1.0.1 
 mvn install:install-file -DgroupId=most_Pixels_Ever -DartifactId=most_Pixels_Ever -Dversion=2.0.2 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/most_Pixels_Ever/2.0.2/mpe/library/mpe.jar
 
 mvn install:install-file -DgroupId=mindSet_Processing -DartifactId=mindSet_Processing -Dversion=0.1.2 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/mindSet_Processing/0.1.2/MindsetProcessing/library/MindsetProcessing.jar
+
+mvn install:install-file -DgroupId=mQTT -DartifactId=mQTT -Dversion=1.6.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/mQTT/1.6.0/mqtt/library/mqtt.jar
 
 mvn install:install-file -DgroupId=bezierSQLib -DartifactId=bezierSQLib -Dversion=0.2.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/bezierSQLib/0.2.0/BezierSQLib/library/BezierSQLib.jar
 
@@ -73,6 +77,8 @@ mvn install:install-file -DgroupId=iD3 -DartifactId=iD3 -Dversion=0.9 -Dpackagin
 
 mvn install:install-file -DgroupId=timedEvents -DartifactId=timedEvents -Dversion=1.0.1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/timedEvents/1.0.1/TimedEvents/library/TimedEvents.jar
 
+mvn install:install-file -DgroupId=leap_Motion_for_Processing -DartifactId=leap_Motion_for_Processing -Dversion=2.3.1.1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/leap_Motion_for_Processing/2.3.1.1/LeapMotionForProcessing/library/LeapMotionForProcessing.jar
+
 mvn install:install-file -DgroupId=grafica -DartifactId=grafica -Dversion=1.3.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/grafica/1.3.0/grafica/library/grafica.jar
 
 mvn install:install-file -DgroupId=mother -DartifactId=mother -Dversion=1.6.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/mother/1.6.0/Mother/library/Foetus.jar
@@ -120,6 +126,8 @@ mvn install:install-file -DgroupId=combinatorics -DartifactId=combinatorics -Dve
 mvn install:install-file -DgroupId=oBJExport -DartifactId=oBJExport -Dversion=0.2.4 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/oBJExport/0.2.4/OBJExport/library/OBJExport.jar
 
 mvn install:install-file -DgroupId=oOCSI_for_Processing -DartifactId=oOCSI_for_Processing -Dversion=0.8 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/oOCSI_for_Processing/0.8/oocsi/library/oocsi.jar
+
+mvn install:install-file -DgroupId=drop -DartifactId=drop -Dversion=1.0.2 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/drop/1.0.2/Drop/library/Drop.jar
 
 mvn install:install-file -DgroupId=fontastic -DartifactId=fontastic -Dversion=0.4 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/fontastic/0.4/Fontastic/library/Fontastic.jar
 
