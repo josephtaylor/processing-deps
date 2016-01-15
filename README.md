@@ -99,6 +99,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### IPCapture - 0.4.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;iPCapture&lt;/groupId&gt;
+	&lt;artifactId&gt;iPCapture&lt;/artifactId&gt;
+	&lt;version&gt;0.4.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### XlsReader - 0.1.1
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;xlsReader&lt;/groupId&gt;
@@ -368,6 +376,22 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;timedEvents&lt;/groupId&gt;
 	&lt;artifactId&gt;timedEvents&lt;/artifactId&gt;
 	&lt;version&gt;1.0.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Websockets - 0.1b
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;websockets&lt;/groupId&gt;
+	&lt;artifactId&gt;websockets&lt;/artifactId&gt;
+	&lt;version&gt;0.1b&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Tablet - 2.0-alpha3
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;tablet&lt;/groupId&gt;
+	&lt;artifactId&gt;tablet&lt;/artifactId&gt;
+	&lt;version&gt;2.0-alpha3&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 

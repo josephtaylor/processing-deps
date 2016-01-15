@@ -9,6 +9,8 @@ mvn install:install-file -DgroupId=vSync_for_Processing -DartifactId=vSync_for_P
 
 mvn install:install-file -DgroupId=camera_3D -DartifactId=camera_3D -Dversion=1.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/camera_3D/1.0/Camera3D/library/Camera3D.jar
 
+mvn install:install-file -DgroupId=iPCapture -DartifactId=iPCapture -Dversion=0.4.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/iPCapture/0.4.0/IPCapture/library/IPCapture.jar
+
 mvn install:install-file -DgroupId=xlsReader -DartifactId=xlsReader -Dversion=0.1.1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/xlsReader/0.1.1/XlsReader/library/XlsReader.jar
 
 mvn install:install-file -DgroupId=blinkStick -DartifactId=blinkStick -Dversion=0.2.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/blinkStick/0.2.0/BlinkStick/library/BlinkStick.jar
@@ -76,6 +78,10 @@ mvn install:install-file -DgroupId=patchy -DartifactId=patchy -Dversion=200 -Dpa
 mvn install:install-file -DgroupId=iD3 -DartifactId=iD3 -Dversion=0.9 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/iD3/0.9/ID3/library/ID3.jar
 
 mvn install:install-file -DgroupId=timedEvents -DartifactId=timedEvents -Dversion=1.0.1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/timedEvents/1.0.1/TimedEvents/library/TimedEvents.jar
+
+mvn install:install-file -DgroupId=websockets -DartifactId=websockets -Dversion=0.1b -Dpackaging=jar -Dfile=/opt/dev/processing-deps/websockets/0.1b/webSockets/library/websocket-common-9.3.6.v20151106.jar
+
+mvn install:install-file -DgroupId=tablet -DartifactId=tablet -Dversion=2.0-alpha3 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/tablet/2.0-alpha3/Tablet/library/Tablet.jar
 
 mvn install:install-file -DgroupId=leap_Motion_for_Processing -DartifactId=leap_Motion_for_Processing -Dversion=2.3.1.1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/leap_Motion_for_Processing/2.3.1.1/LeapMotionForProcessing/library/LeapMotionForProcessing.jar
 
