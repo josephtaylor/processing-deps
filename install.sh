@@ -213,6 +213,8 @@ mvn install:install-file -DgroupId=uDP -DartifactId=uDP -Dversion=0.1 -Dpackagin
 
 mvn install:install-file -DgroupId=gML4U -DartifactId=gML4U -Dversion=0.1.9 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/gML4U/0.1.9/GML4U/library/GML4U.jar
 
+mvn install:install-file -DgroupId=proscene -DartifactId=proscene -Dversion=3.0.0-beta.1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/proscene/3.0.0-beta.1/proscene/library/proscene.jar
+
 mvn install:install-file -DgroupId=apple_Light_Sensor -DartifactId=apple_Light_Sensor -Dversion=1.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/apple_Light_Sensor/1.0/AmbientLightSensor/library/AmbientLightSensor.jar
 
 mvn install:install-file -DgroupId=pixelPusher -DartifactId=pixelPusher -Dversion=20141222 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/pixelPusher/20141222/PixelPusher/library/PixelPusher.jar

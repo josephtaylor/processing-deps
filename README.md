@@ -915,6 +915,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### proscene - 3.0.0-beta.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;proscene&lt;/groupId&gt;
+	&lt;artifactId&gt;proscene&lt;/artifactId&gt;
+	&lt;version&gt;3.0.0-beta.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Apple Light Sensor - 1.0
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;apple_Light_Sensor&lt;/groupId&gt;
