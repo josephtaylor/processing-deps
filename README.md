@@ -75,6 +75,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### ImageLoader - 1.0.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;imageLoader&lt;/groupId&gt;
+	&lt;artifactId&gt;imageLoader&lt;/artifactId&gt;
+	&lt;version&gt;1.0.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### YahooWeather - 0.91
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;yahooWeather&lt;/groupId&gt;
@@ -211,6 +219,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Console - 1.0.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;console&lt;/groupId&gt;
+	&lt;artifactId&gt;console&lt;/artifactId&gt;
+	&lt;version&gt;1.0.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### iGeo - 0.9.0.1
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;iGeo&lt;/groupId&gt;
@@ -275,6 +291,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### MuKCast - 1.0.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;muKCast&lt;/groupId&gt;
+	&lt;artifactId&gt;muKCast&lt;/artifactId&gt;
+	&lt;version&gt;1.0.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Simple Touch - 1
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;simple_Touch&lt;/groupId&gt;
@@ -336,6 +360,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;keystone&lt;/groupId&gt;
 	&lt;artifactId&gt;keystone&lt;/artifactId&gt;
 	&lt;version&gt;006&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### gicentreUtils - 3.4.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;gicentreUtils&lt;/groupId&gt;
+	&lt;artifactId&gt;gicentreUtils&lt;/artifactId&gt;
+	&lt;version&gt;3.4.0&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -579,6 +611,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### proscene - 3.0.0-beta.3
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;proscene&lt;/groupId&gt;
+	&lt;artifactId&gt;proscene&lt;/artifactId&gt;
+	&lt;version&gt;3.0.0-beta.3&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### OBJExport - 0.2.4
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;oBJExport&lt;/groupId&gt;
@@ -736,6 +776,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;tactu5&lt;/groupId&gt;
 	&lt;artifactId&gt;tactu5&lt;/artifactId&gt;
 	&lt;version&gt;1.0.2&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Computational Geometry - 3.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;computational_Geometry&lt;/groupId&gt;
+	&lt;artifactId&gt;computational_Geometry&lt;/artifactId&gt;
+	&lt;version&gt;3.0&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 

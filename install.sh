@@ -3,6 +3,8 @@ mvn install:install-file -DgroupId=cassette -DartifactId=cassette -Dversion=1.0 
 
 mvn install:install-file -DgroupId=shapes_3D -DartifactId=shapes_3D -Dversion=2.2 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/shapes_3D/2.2/Shapes3D/library/Shapes3D.jar
 
+mvn install:install-file -DgroupId=imageLoader -DartifactId=imageLoader -Dversion=1.0.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/imageLoader/1.0.0/ImageLoader/library/gson.jar
+
 mvn install:install-file -DgroupId=yahooWeather -DartifactId=yahooWeather -Dversion=0.91 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/yahooWeather/0.91/YahooWeather/library/YahooWeather.jar
 
 mvn install:install-file -DgroupId=vSync_for_Processing -DartifactId=vSync_for_Processing -Dversion=v0.1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/vSync_for_Processing/v0.1/VSync/library/VSync.jar
@@ -37,6 +39,8 @@ mvn install:install-file -DgroupId=qScript -DartifactId=qScript -Dversion=2.1.1 
 
 mvn install:install-file -DgroupId=ttslib -DartifactId=ttslib -Dversion=0.4 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/ttslib/0.4/ttslib/library/ttslib.jar
 
+mvn install:install-file -DgroupId=console -DartifactId=console -Dversion=1.0.1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/console/1.0.1/Console/library/Console.jar
+
 mvn install:install-file -DgroupId=iGeo -DartifactId=iGeo -Dversion=0.9.0.1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/iGeo/0.9.0.1/igeo/library/igeo.jar
 
 mvn install:install-file -DgroupId=planetarium -DartifactId=planetarium -Dversion=0.4 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/planetarium/0.4/planetarium/library/planetarium.jar
@@ -53,6 +57,8 @@ mvn install:install-file -DgroupId=sketchMapper -DartifactId=sketchMapper -Dvers
 
 mvn install:install-file -DgroupId=motion -DartifactId=motion -Dversion=1.3 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/motion/1.3/motion/library/motion.jar
 
+mvn install:install-file -DgroupId=muKCast -DartifactId=muKCast -Dversion=1.0.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/muKCast/1.0.0/MuKCast/library/MuKCast.jar
+
 mvn install:install-file -DgroupId=simple_Touch -DartifactId=simple_Touch -Dversion=1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/simple_Touch/1/simpletouch/library/simpletouch.jar
 
 mvn install:install-file -DgroupId=open_Kinect_for_Processing -DartifactId=open_Kinect_for_Processing -Dversion=1.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/open_Kinect_for_Processing/1.0/openkinect_processing/library/openkinect_processing.jar
@@ -68,6 +74,8 @@ mvn install:install-file -DgroupId=leap_Motion_for_Processing -DartifactId=leap_
 mvn install:install-file -DgroupId=p8gGraphicsSVG -DartifactId=p8gGraphicsSVG -Dversion=2.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/p8gGraphicsSVG/2.0/P8gGraphicsSVG/library/P8gGraphicsSVG.jar
 
 mvn install:install-file -DgroupId=keystone -DartifactId=keystone -Dversion=006 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/keystone/006/keystone/library/keystone.jar
+
+mvn install:install-file -DgroupId=gicentreUtils -DartifactId=gicentreUtils -Dversion=3.4.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/gicentreUtils/3.4.0/gicentreUtils/library/gicentreUtils.jar
 
 mvn install:install-file -DgroupId=path_Finder -DartifactId=path_Finder -Dversion=1.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/path_Finder/1.0/Path_Finder/library/Path_Finder.jar
 
@@ -129,6 +137,8 @@ mvn install:install-file -DgroupId=video -DartifactId=video -Dversion=1.0.1 -Dpa
 
 mvn install:install-file -DgroupId=combinatorics -DartifactId=combinatorics -Dversion=0.0.11 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/combinatorics/0.0.11/Combinatorics/library/Combinatorics.jar
 
+mvn install:install-file -DgroupId=proscene -DartifactId=proscene -Dversion=3.0.0-beta.3 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/proscene/3.0.0-beta.3/proscene/library/proscene.jar
+
 mvn install:install-file -DgroupId=oBJExport -DartifactId=oBJExport -Dversion=0.2.4 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/oBJExport/0.2.4/OBJExport/library/OBJExport.jar
 
 mvn install:install-file -DgroupId=oOCSI_for_Processing -DartifactId=oOCSI_for_Processing -Dversion=0.8 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/oOCSI_for_Processing/0.8/oocsi/library/oocsi.jar
@@ -168,6 +178,8 @@ mvn install:install-file -DgroupId=proscene -DartifactId=proscene -Dversion=2.0.
 mvn install:install-file -DgroupId=gamepad -DartifactId=gamepad -Dversion=2.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/gamepad/2.0/gamepad/library/gamepad.jar
 
 mvn install:install-file -DgroupId=tactu5 -DartifactId=tactu5 -Dversion=1.0.2 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/tactu5/1.0.2/tactu5/library/tactu5.jar
+
+mvn install:install-file -DgroupId=computational_Geometry -DartifactId=computational_Geometry -Dversion=3.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/computational_Geometry/3.0/ComputationalGeometry/library/ComputationalGeometry.jar
 
 mvn install:install-file -DgroupId=geomerative -DartifactId=geomerative -Dversion=40 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/geomerative/40/geomerative/library/geomerative.jar
 
