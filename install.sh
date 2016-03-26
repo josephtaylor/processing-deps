@@ -1,6 +1,8 @@
 #!/bin/sh
 mvn install:install-file -DgroupId=cassette -DartifactId=cassette -Dversion=1.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/cassette/1.0/cassette/library/cassette.jar
 
+mvn install:install-file -DgroupId=ignoCodeLib_0_4 -DartifactId=ignoCodeLib_0_4 -Dversion=0.4 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/ignoCodeLib_0_4/0.4/IgnoCodeLib/library/IgnoCodeLib.jar
+
 mvn install:install-file -DgroupId=shapes_3D -DartifactId=shapes_3D -Dversion=2.2 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/shapes_3D/2.2/Shapes3D/library/Shapes3D.jar
 
 mvn install:install-file -DgroupId=imageLoader -DartifactId=imageLoader -Dversion=1.0.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/imageLoader/1.0.0/ImageLoader/library/gson.jar
@@ -14,6 +16,8 @@ mvn install:install-file -DgroupId=camera_3D -DartifactId=camera_3D -Dversion=1.
 mvn install:install-file -DgroupId=iPCapture -DartifactId=iPCapture -Dversion=0.4.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/iPCapture/0.4.0/IPCapture/library/IPCapture.jar
 
 mvn install:install-file -DgroupId=xlsReader -DartifactId=xlsReader -Dversion=0.1.1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/xlsReader/0.1.1/XlsReader/library/XlsReader.jar
+
+mvn install:install-file -DgroupId=imageLoader -DartifactId=imageLoader -Dversion=2.0.1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/imageLoader/2.0.1/ImageLoader/library/gson.jar
 
 mvn install:install-file -DgroupId=blinkStick -DartifactId=blinkStick -Dversion=0.2.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/blinkStick/0.2.0/BlinkStick/library/BlinkStick.jar
 
@@ -75,7 +79,11 @@ mvn install:install-file -DgroupId=p8gGraphicsSVG -DartifactId=p8gGraphicsSVG -D
 
 mvn install:install-file -DgroupId=keystone -DartifactId=keystone -Dversion=006 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/keystone/006/keystone/library/keystone.jar
 
+mvn install:install-file -DgroupId=androidCapture_for_Processing -DartifactId=androidCapture_for_Processing -Dversion=2.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/androidCapture_for_Processing/2.0/AndroidCaptureForProcessing/library/AndroidCaptureForProcessing.jar
+
 mvn install:install-file -DgroupId=gicentreUtils -DartifactId=gicentreUtils -Dversion=3.4.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/gicentreUtils/3.4.0/gicentreUtils/library/gicentreUtils.jar
+
+mvn install:install-file -DgroupId=bRigid -DartifactId=bRigid -Dversion=2.1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/bRigid/2.1/bRigid/library/bRigid.jar
 
 mvn install:install-file -DgroupId=path_Finder -DartifactId=path_Finder -Dversion=1.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/path_Finder/1.0/Path_Finder/library/Path_Finder.jar
 
@@ -101,6 +109,8 @@ mvn install:install-file -DgroupId=tablet -DartifactId=tablet -Dversion=2.0-alph
 
 mvn install:install-file -DgroupId=hermes -DartifactId=hermes -Dversion=2.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/hermes/2.0/hermes/library/hermes.jar
 
+mvn install:install-file -DgroupId=grafica -DartifactId=grafica -Dversion=1.5.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/grafica/1.5.0/grafica/library/grafica.jar
+
 mvn install:install-file -DgroupId=collada_Loader_for_Google_Sketchup -DartifactId=collada_Loader_for_Google_Sketchup -Dversion=3.0b -Dpackaging=jar -Dfile=/opt/dev/processing-deps/collada_Loader_for_Google_Sketchup/3.0b/colladaLoader/library/colladaLoader.jar
 
 mvn install:install-file -DgroupId=g4P -DartifactId=g4P -Dversion=4.0.3 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/g4P/4.0.3/G4P/library/G4P.jar
@@ -110,6 +120,8 @@ mvn install:install-file -DgroupId=drop -DartifactId=drop -Dversion=1.0.1 -Dpack
 mvn install:install-file -DgroupId=sFTP -DartifactId=sFTP -Dversion=0.1a -Dpackaging=jar -Dfile=/opt/dev/processing-deps/sFTP/0.1a/sftp/library/sftp.jar
 
 mvn install:install-file -DgroupId=soundCloud -DartifactId=soundCloud -Dversion=0.1.6 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/soundCloud/0.1.6/SoundCloud/library/SoundCloud.jar
+
+mvn install:install-file -DgroupId=hTTP_Requests_for_Processing -DartifactId=hTTP_Requests_for_Processing -Dversion=0.1.4 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/hTTP_Requests_for_Processing/0.1.4/httprequests_processing/library/httpclient-cache-4.1.2.jar
 
 mvn install:install-file -DgroupId=temboo -DartifactId=temboo -Dversion=2.14.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/temboo/2.14.0/temboo/library/choreos.jar
 
@@ -187,6 +199,10 @@ mvn install:install-file -DgroupId=hE_Mesh_2014 -DartifactId=hE_Mesh_2014 -Dvers
 
 mvn install:install-file -DgroupId=box2D_for_Processing -DartifactId=box2D_for_Processing -Dversion=0.4 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/box2D_for_Processing/0.4/box2d_processing/library/box2d_processing.jar
 
+mvn install:install-file -DgroupId=gL_Video -DartifactId=gL_Video -Dversion=1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/gL_Video/1/glvideo/library/glvideo.jar
+
+mvn install:install-file -DgroupId=sketchMapper -DartifactId=sketchMapper -Dversion=4.0.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/sketchMapper/4.0.0/SketchMapper/library/SketchMapper.jar
+
 mvn install:install-file -DgroupId=sound -DartifactId=sound -Dversion=1.3.1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/sound/1.3.1/sound/library/sound.jar
 
 mvn install:install-file -DgroupId=sudden_Motion_Sensor -DartifactId=sudden_Motion_Sensor -Dversion=0.1a -Dpackaging=jar -Dfile=/opt/dev/processing-deps/sudden_Motion_Sensor/0.1a/sms/library/sms.jar
@@ -210,6 +226,8 @@ mvn install:install-file -DgroupId=sprites -DartifactId=sprites -Dversion=2.1.1 
 mvn install:install-file -DgroupId=gifAnimation -DartifactId=gifAnimation -Dversion=2.3.1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/gifAnimation/2.3.1/gifAnimation/library/gifAnimation.jar
 
 mvn install:install-file -DgroupId=computationalGeometry -DartifactId=computationalGeometry -Dversion=2 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/computationalGeometry/2/ComputationalGeometry/library/ComputationalGeometry.jar
+
+mvn install:install-file -DgroupId=ptmx -DartifactId=ptmx -Dversion=0.1 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/ptmx/0.1/ptmx/library/ptmx.jar
 
 mvn install:install-file -DgroupId=ezGestures -DartifactId=ezGestures -Dversion=1.0 -Dpackaging=jar -Dfile=/opt/dev/processing-deps/ezGestures/1.0/ezGestures/library/ezGestures.jar
 

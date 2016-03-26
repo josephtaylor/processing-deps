@@ -67,6 +67,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### IgnoCodeLib 0.4 - 0.4
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;ignoCodeLib_0_4&lt;/groupId&gt;
+	&lt;artifactId&gt;ignoCodeLib_0_4&lt;/artifactId&gt;
+	&lt;version&gt;0.4&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Shapes 3D - 2.2
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;shapes_3D&lt;/groupId&gt;
@@ -120,6 +128,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;xlsReader&lt;/groupId&gt;
 	&lt;artifactId&gt;xlsReader&lt;/artifactId&gt;
 	&lt;version&gt;0.1.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### ImageLoader - 2.0.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;imageLoader&lt;/groupId&gt;
+	&lt;artifactId&gt;imageLoader&lt;/artifactId&gt;
+	&lt;version&gt;2.0.1&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -363,11 +379,27 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### AndroidCapture for Processing - 2.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;androidCapture_for_Processing&lt;/groupId&gt;
+	&lt;artifactId&gt;androidCapture_for_Processing&lt;/artifactId&gt;
+	&lt;version&gt;2.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### gicentreUtils - 3.4.0
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;gicentreUtils&lt;/groupId&gt;
 	&lt;artifactId&gt;gicentreUtils&lt;/artifactId&gt;
 	&lt;version&gt;3.4.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### BRigid - 2.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;bRigid&lt;/groupId&gt;
+	&lt;artifactId&gt;bRigid&lt;/artifactId&gt;
+	&lt;version&gt;2.1&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -467,6 +499,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### grafica - 1.5.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;grafica&lt;/groupId&gt;
+	&lt;artifactId&gt;grafica&lt;/artifactId&gt;
+	&lt;version&gt;1.5.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Collada Loader for Google Sketchup - 3.0b
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;collada_Loader_for_Google_Sketchup&lt;/groupId&gt;
@@ -504,6 +544,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;soundCloud&lt;/groupId&gt;
 	&lt;artifactId&gt;soundCloud&lt;/artifactId&gt;
 	&lt;version&gt;0.1.6&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### HTTP Requests for Processing - 0.1.4
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;hTTP_Requests_for_Processing&lt;/groupId&gt;
+	&lt;artifactId&gt;hTTP_Requests_for_Processing&lt;/artifactId&gt;
+	&lt;version&gt;0.1.4&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -811,6 +859,22 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### GL Video - 1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;gL_Video&lt;/groupId&gt;
+	&lt;artifactId&gt;gL_Video&lt;/artifactId&gt;
+	&lt;version&gt;1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### SketchMapper - 4.0.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;sketchMapper&lt;/groupId&gt;
+	&lt;artifactId&gt;sketchMapper&lt;/artifactId&gt;
+	&lt;version&gt;4.0.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Sound - 1.3.1
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;sound&lt;/groupId&gt;
@@ -904,6 +968,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;computationalGeometry&lt;/groupId&gt;
 	&lt;artifactId&gt;computationalGeometry&lt;/artifactId&gt;
 	&lt;version&gt;2&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Ptmx - 0.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;ptmx&lt;/groupId&gt;
+	&lt;artifactId&gt;ptmx&lt;/artifactId&gt;
+	&lt;version&gt;0.1&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
