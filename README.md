@@ -59,6 +59,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 ## pom entries for each plugin
 
 
+### bRigid - 3.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;bRigid&lt;/groupId&gt;
+	&lt;artifactId&gt;bRigid&lt;/artifactId&gt;
+	&lt;version&gt;3.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Cassette - 1.0
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;cassette&lt;/groupId&gt;
@@ -203,6 +211,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### SketchMapper - 4.0.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;sketchMapper&lt;/groupId&gt;
+	&lt;artifactId&gt;sketchMapper&lt;/artifactId&gt;
+	&lt;version&gt;4.0.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### MQTT - 1.6.0
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;mQTT&lt;/groupId&gt;
@@ -280,6 +296,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;kinect4WinSDK&lt;/groupId&gt;
 	&lt;artifactId&gt;kinect4WinSDK&lt;/artifactId&gt;
 	&lt;version&gt;1.2.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### RiTa - 1.1.35
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;riTa&lt;/groupId&gt;
+	&lt;artifactId&gt;riTa&lt;/artifactId&gt;
+	&lt;version&gt;1.1.35&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -419,6 +443,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### IgnoCodeLib - 0.4
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;ignoCodeLib&lt;/groupId&gt;
+	&lt;artifactId&gt;ignoCodeLib&lt;/artifactId&gt;
+	&lt;version&gt;0.4&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Patchy - 200
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;patchy&lt;/groupId&gt;
@@ -488,6 +520,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;tablet&lt;/groupId&gt;
 	&lt;artifactId&gt;tablet&lt;/artifactId&gt;
 	&lt;version&gt;2.0-alpha1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Spout for Processing - 2.0.5.3
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;spout_for_Processing&lt;/groupId&gt;
+	&lt;artifactId&gt;spout_for_Processing&lt;/artifactId&gt;
+	&lt;version&gt;2.0.5.3&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -563,6 +603,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Video Export - 0.0.8
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;video_Export&lt;/groupId&gt;
+	&lt;artifactId&gt;video_Export&lt;/artifactId&gt;
+	&lt;version&gt;0.0.8&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Simple Multi-Touch (SMT) - 4.2
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;simple_Multi_Touch_SMT&lt;/groupId&gt;
@@ -576,6 +624,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;qRCode&lt;/groupId&gt;
 	&lt;artifactId&gt;qRCode&lt;/artifactId&gt;
 	&lt;version&gt;0.3a&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### punktiert - 3.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;punktiert&lt;/groupId&gt;
+	&lt;artifactId&gt;punktiert&lt;/artifactId&gt;
+	&lt;version&gt;3.0&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 

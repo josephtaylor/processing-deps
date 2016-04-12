@@ -1,4 +1,6 @@
 #!/bin/sh
+mvn install:install-file -DgroupId=bRigid -DartifactId=bRigid -Dversion=3.0 -Dpackaging=jar -Dfile=./bRigid/3.0/bRigid/library/bRigid.jar
+
 mvn install:install-file -DgroupId=cassette -DartifactId=cassette -Dversion=1.0 -Dpackaging=jar -Dfile=./cassette/1.0/cassette/library/cassette.jar
 
 mvn install:install-file -DgroupId=ignoCodeLib_0_4 -DartifactId=ignoCodeLib_0_4 -Dversion=0.4 -Dpackaging=jar -Dfile=./ignoCodeLib_0_4/0.4/IgnoCodeLib/library/IgnoCodeLib.jar
@@ -35,6 +37,8 @@ mvn install:install-file -DgroupId=most_Pixels_Ever -DartifactId=most_Pixels_Eve
 
 mvn install:install-file -DgroupId=mindSet_Processing -DartifactId=mindSet_Processing -Dversion=0.1.2 -Dpackaging=jar -Dfile=./mindSet_Processing/0.1.2/MindsetProcessing/library/MindsetProcessing.jar
 
+mvn install:install-file -DgroupId=sketchMapper -DartifactId=sketchMapper -Dversion=4.0.1 -Dpackaging=jar -Dfile=./sketchMapper/4.0.1/SketchMapper/library/SketchMapper.jar
+
 mvn install:install-file -DgroupId=mQTT -DartifactId=mQTT -Dversion=1.6.0 -Dpackaging=jar -Dfile=./mQTT/1.6.0/mqtt/library/mqtt.jar
 
 mvn install:install-file -DgroupId=bezierSQLib -DartifactId=bezierSQLib -Dversion=0.2.0 -Dpackaging=jar -Dfile=./bezierSQLib/0.2.0/BezierSQLib/library/BezierSQLib.jar
@@ -54,6 +58,8 @@ mvn install:install-file -DgroupId=temboo -DartifactId=temboo -Dversion=2.13.2 -
 mvn install:install-file -DgroupId=nextText -DartifactId=nextText -Dversion=2.0.2 -Dpackaging=jar -Dfile=./nextText/2.0.2/NextText/library/NextText.jar
 
 mvn install:install-file -DgroupId=kinect4WinSDK -DartifactId=kinect4WinSDK -Dversion=1.2.0 -Dpackaging=jar -Dfile=./kinect4WinSDK/1.2.0/Kinect4WinSDK/library/Kinect4WinSDK.jar
+
+mvn install:install-file -DgroupId=riTa -DartifactId=riTa -Dversion=1.1.35 -Dpackaging=jar -Dfile=./riTa/1.1.35/RiTa/library/rita.jar
 
 mvn install:install-file -DgroupId=nest -DartifactId=nest -Dversion=0.7.0 -Dpackaging=jar -Dfile=./nest/0.7.0/Nest/library/Nest.jar
 
@@ -89,6 +95,8 @@ mvn install:install-file -DgroupId=path_Finder -DartifactId=path_Finder -Dversio
 
 mvn install:install-file -DgroupId=peasyCam -DartifactId=peasyCam -Dversion=201 -Dpackaging=jar -Dfile=./peasyCam/201/peasycam/library/peasycam.jar
 
+mvn install:install-file -DgroupId=ignoCodeLib -DartifactId=ignoCodeLib -Dversion=0.4 -Dpackaging=jar -Dfile=./ignoCodeLib/0.4/IgnoCodeLib/library/IgnoCodeLib.jar
+
 mvn install:install-file -DgroupId=patchy -DartifactId=patchy -Dversion=200 -Dpackaging=jar -Dfile=./patchy/200/patchy/library/patchy.jar
 
 mvn install:install-file -DgroupId=iD3 -DartifactId=iD3 -Dversion=0.9 -Dpackaging=jar -Dfile=./iD3/0.9/ID3/library/ID3.jar
@@ -106,6 +114,8 @@ mvn install:install-file -DgroupId=grafica -DartifactId=grafica -Dversion=1.3.0 
 mvn install:install-file -DgroupId=mother -DartifactId=mother -Dversion=1.6.0 -Dpackaging=jar -Dfile=./mother/1.6.0/Mother/library/Foetus.jar
 
 mvn install:install-file -DgroupId=tablet -DartifactId=tablet -Dversion=2.0-alpha1 -Dpackaging=jar -Dfile=./tablet/2.0-alpha1/Tablet/library/Tablet.jar
+
+mvn install:install-file -DgroupId=spout_for_Processing -DartifactId=spout_for_Processing -Dversion=2.0.5.3 -Dpackaging=jar -Dfile=./spout_for_Processing/2.0.5.3/spout/library/spout.jar
 
 mvn install:install-file -DgroupId=hermes -DartifactId=hermes -Dversion=2.0 -Dpackaging=jar -Dfile=./hermes/2.0/hermes/library/hermes.jar
 
@@ -125,9 +135,13 @@ mvn install:install-file -DgroupId=hTTP_Requests_for_Processing -DartifactId=hTT
 
 mvn install:install-file -DgroupId=temboo -DartifactId=temboo -Dversion=2.14.0 -Dpackaging=jar -Dfile=./temboo/2.14.0/temboo/library/choreos.jar
 
+mvn install:install-file -DgroupId=video_Export -DartifactId=video_Export -Dversion=0.0.8 -Dpackaging=jar -Dfile=./video_Export/0.0.8/VideoExport/library/VideoExport.jar
+
 mvn install:install-file -DgroupId=simple_Multi_Touch_SMT -DartifactId=simple_Multi_Touch_SMT -Dversion=4.2 -Dpackaging=jar -Dfile=./simple_Multi_Touch_SMT/4.2/SMT/library/SMT.jar
 
 mvn install:install-file -DgroupId=qRCode -DartifactId=qRCode -Dversion=0.3a -Dpackaging=jar -Dfile=./qRCode/0.3a/qrcodeprocessing/library/qrcode.jar
+
+mvn install:install-file -DgroupId=punktiert -DartifactId=punktiert -Dversion=3.0 -Dpackaging=jar -Dfile=./punktiert/3.0/punktiert/library/punktiert.jar
 
 mvn install:install-file -DgroupId=colorScheme -DartifactId=colorScheme -Dversion=2.0.0 -Dpackaging=jar -Dfile=./colorScheme/2.0.0/ColorScheme/library/ColorScheme.jar
 
@@ -266,3 +280,4 @@ mvn install:install-file -DgroupId=org.processing -DartifactId=processing-core -
 mvn install:install-file -DgroupId=org.processing -DartifactId=processing-core -Dversion=3.0 -Dpackaging=jar -Dfile=./processing/3.0/core.jar
 
 mvn install:install-file -DgroupId=org.processing -DartifactId=processing-core -Dversion=3.0b4 -Dpackaging=jar -Dfile=./processing/3.0b4/core.jar
+
