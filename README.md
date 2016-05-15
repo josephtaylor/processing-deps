@@ -83,6 +83,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### proscene - 3.0.0-beta.4
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;proscene&lt;/groupId&gt;
+	&lt;artifactId&gt;proscene&lt;/artifactId&gt;
+	&lt;version&gt;3.0.0-beta.4&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Shapes 3D - 2.2
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;shapes_3D&lt;/groupId&gt;
@@ -219,11 +227,35 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Console - 1.0.3
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;console&lt;/groupId&gt;
+	&lt;artifactId&gt;console&lt;/artifactId&gt;
+	&lt;version&gt;1.0.3&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### ControlP5 - 2.2.6
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;controlP5&lt;/groupId&gt;
+	&lt;artifactId&gt;controlP5&lt;/artifactId&gt;
+	&lt;version&gt;2.2.6&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### MQTT - 1.6.0
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;mQTT&lt;/groupId&gt;
 	&lt;artifactId&gt;mQTT&lt;/artifactId&gt;
 	&lt;version&gt;1.6.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### GaussSense SDK for Processing - 1.0.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;gaussSense_SDK_for_Processing&lt;/groupId&gt;
+	&lt;artifactId&gt;gaussSense_SDK_for_Processing&lt;/artifactId&gt;
+	&lt;version&gt;1.0.0&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -240,6 +272,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;qScript&lt;/groupId&gt;
 	&lt;artifactId&gt;qScript&lt;/artifactId&gt;
 	&lt;version&gt;2.1.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Temboo - 2.17.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;temboo&lt;/groupId&gt;
+	&lt;artifactId&gt;temboo&lt;/artifactId&gt;
+	&lt;version&gt;2.17.0&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -291,6 +331,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Sound - 1.3.2
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;sound&lt;/groupId&gt;
+	&lt;artifactId&gt;sound&lt;/artifactId&gt;
+	&lt;version&gt;1.3.2&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Kinect4WinSDK - 1.2.0
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;kinect4WinSDK&lt;/groupId&gt;
@@ -331,6 +379,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Executor - 1.0.3
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;executor&lt;/groupId&gt;
+	&lt;artifactId&gt;executor&lt;/artifactId&gt;
+	&lt;version&gt;1.0.3&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### MuKCast - 1.0.0
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;muKCast&lt;/groupId&gt;
@@ -360,6 +416,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;guido&lt;/groupId&gt;
 	&lt;artifactId&gt;guido&lt;/artifactId&gt;
 	&lt;version&gt;0.0.4&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### RiTa - 1.1.38
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;riTa&lt;/groupId&gt;
+	&lt;artifactId&gt;riTa&lt;/artifactId&gt;
+	&lt;version&gt;1.1.38&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -432,6 +496,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;path_Finder&lt;/groupId&gt;
 	&lt;artifactId&gt;path_Finder&lt;/artifactId&gt;
 	&lt;version&gt;1.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Video Export - 0.0.9
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;video_Export&lt;/groupId&gt;
+	&lt;artifactId&gt;video_Export&lt;/artifactId&gt;
+	&lt;version&gt;0.0.9&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -907,6 +979,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### ImageLoader - 3.0.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;imageLoader&lt;/groupId&gt;
+	&lt;artifactId&gt;imageLoader&lt;/artifactId&gt;
+	&lt;version&gt;3.0.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Box2D for Processing - 0.4
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;box2D_for_Processing&lt;/groupId&gt;
@@ -920,6 +1000,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;gL_Video&lt;/groupId&gt;
 	&lt;artifactId&gt;gL_Video&lt;/artifactId&gt;
 	&lt;version&gt;1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Ptmx - 0.2
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;ptmx&lt;/groupId&gt;
+	&lt;artifactId&gt;ptmx&lt;/artifactId&gt;
+	&lt;version&gt;0.2&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -1000,6 +1088,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;fisica&lt;/groupId&gt;
 	&lt;artifactId&gt;fisica&lt;/artifactId&gt;
 	&lt;version&gt;15&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Spout for Processing - 2.0.5.4
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;spout_for_Processing&lt;/groupId&gt;
+	&lt;artifactId&gt;spout_for_Processing&lt;/artifactId&gt;
+	&lt;version&gt;2.0.5.4&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -1120,6 +1216,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;riTa&lt;/groupId&gt;
 	&lt;artifactId&gt;riTa&lt;/artifactId&gt;
 	&lt;version&gt;1.1.27&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Carnivore - 8
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;carnivore&lt;/groupId&gt;
+	&lt;artifactId&gt;carnivore&lt;/artifactId&gt;
+	&lt;version&gt;8&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 

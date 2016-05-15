@@ -5,6 +5,8 @@ mvn install:install-file -DgroupId=cassette -DartifactId=cassette -Dversion=1.0 
 
 mvn install:install-file -DgroupId=ignoCodeLib_0_4 -DartifactId=ignoCodeLib_0_4 -Dversion=0.4 -Dpackaging=jar -Dfile=./ignoCodeLib_0_4/0.4/IgnoCodeLib/library/IgnoCodeLib.jar
 
+mvn install:install-file -DgroupId=proscene -DartifactId=proscene -Dversion=3.0.0-beta.4 -Dpackaging=jar -Dfile=./proscene/3.0.0-beta.4/proscene/library/proscene.jar
+
 mvn install:install-file -DgroupId=shapes_3D -DartifactId=shapes_3D -Dversion=2.2 -Dpackaging=jar -Dfile=./shapes_3D/2.2/Shapes3D/library/Shapes3D.jar
 
 mvn install:install-file -DgroupId=imageLoader -DartifactId=imageLoader -Dversion=1.0.0 -Dpackaging=jar -Dfile=./imageLoader/1.0.0/ImageLoader/library/gson.jar
@@ -39,11 +41,19 @@ mvn install:install-file -DgroupId=mindSet_Processing -DartifactId=mindSet_Proce
 
 mvn install:install-file -DgroupId=sketchMapper -DartifactId=sketchMapper -Dversion=4.0.1 -Dpackaging=jar -Dfile=./sketchMapper/4.0.1/SketchMapper/library/SketchMapper.jar
 
+mvn install:install-file -DgroupId=console -DartifactId=console -Dversion=1.0.3 -Dpackaging=jar -Dfile=./console/1.0.3/Console/library/Console.jar
+
+mvn install:install-file -DgroupId=controlP5 -DartifactId=controlP5 -Dversion=2.2.6 -Dpackaging=jar -Dfile=./controlP5/2.2.6/controlP5/library/controlP5.jar
+
 mvn install:install-file -DgroupId=mQTT -DartifactId=mQTT -Dversion=1.6.0 -Dpackaging=jar -Dfile=./mQTT/1.6.0/mqtt/library/mqtt.jar
+
+mvn install:install-file -DgroupId=gaussSense_SDK_for_Processing -DartifactId=gaussSense_SDK_for_Processing -Dversion=1.0.0 -Dpackaging=jar -Dfile=./gaussSense_SDK_for_Processing/1.0.0/GaussSense/library/GaussSense.jar
 
 mvn install:install-file -DgroupId=bezierSQLib -DartifactId=bezierSQLib -Dversion=0.2.0 -Dpackaging=jar -Dfile=./bezierSQLib/0.2.0/BezierSQLib/library/BezierSQLib.jar
 
 mvn install:install-file -DgroupId=qScript -DartifactId=qScript -Dversion=2.1.1 -Dpackaging=jar -Dfile=./qScript/2.1.1/QScript/library/QScript.jar
+
+mvn install:install-file -DgroupId=temboo -DartifactId=temboo -Dversion=2.17.0 -Dpackaging=jar -Dfile=./temboo/2.17.0/temboo/library/choreos.jar
 
 mvn install:install-file -DgroupId=ttslib -DartifactId=ttslib -Dversion=0.4 -Dpackaging=jar -Dfile=./ttslib/0.4/ttslib/library/ttslib.jar
 
@@ -57,6 +67,8 @@ mvn install:install-file -DgroupId=temboo -DartifactId=temboo -Dversion=2.13.2 -
 
 mvn install:install-file -DgroupId=nextText -DartifactId=nextText -Dversion=2.0.2 -Dpackaging=jar -Dfile=./nextText/2.0.2/NextText/library/NextText.jar
 
+mvn install:install-file -DgroupId=sound -DartifactId=sound -Dversion=1.3.2 -Dpackaging=jar -Dfile=./sound/1.3.2/sound/library/sound.jar
+
 mvn install:install-file -DgroupId=kinect4WinSDK -DartifactId=kinect4WinSDK -Dversion=1.2.0 -Dpackaging=jar -Dfile=./kinect4WinSDK/1.2.0/Kinect4WinSDK/library/Kinect4WinSDK.jar
 
 mvn install:install-file -DgroupId=riTa -DartifactId=riTa -Dversion=1.1.35 -Dpackaging=jar -Dfile=./riTa/1.1.35/RiTa/library/rita.jar
@@ -67,6 +79,8 @@ mvn install:install-file -DgroupId=sketchMapper -DartifactId=sketchMapper -Dvers
 
 mvn install:install-file -DgroupId=motion -DartifactId=motion -Dversion=1.3 -Dpackaging=jar -Dfile=./motion/1.3/motion/library/motion.jar
 
+mvn install:install-file -DgroupId=executor -DartifactId=executor -Dversion=1.0.3 -Dpackaging=jar -Dfile=./executor/1.0.3/executor/library/executor.jar
+
 mvn install:install-file -DgroupId=muKCast -DartifactId=muKCast -Dversion=1.0.0 -Dpackaging=jar -Dfile=./muKCast/1.0.0/MuKCast/library/MuKCast.jar
 
 mvn install:install-file -DgroupId=simple_Touch -DartifactId=simple_Touch -Dversion=1 -Dpackaging=jar -Dfile=./simple_Touch/1/simpletouch/library/simpletouch.jar
@@ -74,6 +88,8 @@ mvn install:install-file -DgroupId=simple_Touch -DartifactId=simple_Touch -Dvers
 mvn install:install-file -DgroupId=open_Kinect_for_Processing -DartifactId=open_Kinect_for_Processing -Dversion=1.0 -Dpackaging=jar -Dfile=./open_Kinect_for_Processing/1.0/openkinect_processing/library/openkinect_processing.jar
 
 mvn install:install-file -DgroupId=guido -DartifactId=guido -Dversion=0.0.4 -Dpackaging=jar -Dfile=./guido/0.0.4/Guido/library/Guido.jar
+
+mvn install:install-file -DgroupId=riTa -DartifactId=riTa -Dversion=1.1.38 -Dpackaging=jar -Dfile=./riTa/1.1.38/RiTa/library/rita.jar
 
 mvn install:install-file -DgroupId=carnivore -DartifactId=carnivore -Dversion=7 -Dpackaging=jar -Dfile=./carnivore/7/carnivore/library/carnivore.jar
 
@@ -92,6 +108,8 @@ mvn install:install-file -DgroupId=gicentreUtils -DartifactId=gicentreUtils -Dve
 mvn install:install-file -DgroupId=bRigid -DartifactId=bRigid -Dversion=2.1 -Dpackaging=jar -Dfile=./bRigid/2.1/bRigid/library/bRigid.jar
 
 mvn install:install-file -DgroupId=path_Finder -DartifactId=path_Finder -Dversion=1.0 -Dpackaging=jar -Dfile=./path_Finder/1.0/Path_Finder/library/Path_Finder.jar
+
+mvn install:install-file -DgroupId=video_Export -DartifactId=video_Export -Dversion=0.0.9 -Dpackaging=jar -Dfile=./video_Export/0.0.9/VideoExport/library/VideoExport.jar
 
 mvn install:install-file -DgroupId=peasyCam -DartifactId=peasyCam -Dversion=201 -Dpackaging=jar -Dfile=./peasyCam/201/peasycam/library/peasycam.jar
 
@@ -211,9 +229,13 @@ mvn install:install-file -DgroupId=geomerative -DartifactId=geomerative -Dversio
 
 mvn install:install-file -DgroupId=hE_Mesh_2014 -DartifactId=hE_Mesh_2014 -Dversion=2.0.15 „Random” -Dpackaging=jar -Dfile=./hE_Mesh_2014/2.0.15 „Random”/hemesh/library/hemesh.jar
 
+mvn install:install-file -DgroupId=imageLoader -DartifactId=imageLoader -Dversion=3.0.0 -Dpackaging=jar -Dfile=./imageLoader/3.0.0/ImageLoader/library/gson.jar
+
 mvn install:install-file -DgroupId=box2D_for_Processing -DartifactId=box2D_for_Processing -Dversion=0.4 -Dpackaging=jar -Dfile=./box2D_for_Processing/0.4/box2d_processing/library/box2d_processing.jar
 
 mvn install:install-file -DgroupId=gL_Video -DartifactId=gL_Video -Dversion=1 -Dpackaging=jar -Dfile=./gL_Video/1/glvideo/library/glvideo.jar
+
+mvn install:install-file -DgroupId=ptmx -DartifactId=ptmx -Dversion=0.2 -Dpackaging=jar -Dfile=./ptmx/0.2/ptmx/library/ptmx.jar
 
 mvn install:install-file -DgroupId=sketchMapper -DartifactId=sketchMapper -Dversion=4.0.0 -Dpackaging=jar -Dfile=./sketchMapper/4.0.0/SketchMapper/library/SketchMapper.jar
 
@@ -234,6 +256,8 @@ mvn install:install-file -DgroupId=andrew_s_Utilities_AULib -DartifactId=andrew_
 mvn install:install-file -DgroupId=ketai -DartifactId=ketai -Dversion=v12 -Dpackaging=jar -Dfile=./ketai/v12/Ketai/library/ketai.jar
 
 mvn install:install-file -DgroupId=fisica -DartifactId=fisica -Dversion=15 -Dpackaging=jar -Dfile=./fisica/15/fisica/library/fisica.jar
+
+mvn install:install-file -DgroupId=spout_for_Processing -DartifactId=spout_for_Processing -Dversion=2.0.5.4 -Dpackaging=jar -Dfile=./spout_for_Processing/2.0.5.4/spout/library/spout.jar
 
 mvn install:install-file -DgroupId=sprites -DartifactId=sprites -Dversion=2.1.1 -Dpackaging=jar -Dfile=./sprites/2.1.1/Sprites/library/Sprites.jar
 
@@ -264,6 +288,8 @@ mvn install:install-file -DgroupId=apple_Light_Sensor -DartifactId=apple_Light_S
 mvn install:install-file -DgroupId=pixelPusher -DartifactId=pixelPusher -Dversion=20141222 -Dpackaging=jar -Dfile=./pixelPusher/20141222/PixelPusher/library/PixelPusher.jar
 
 mvn install:install-file -DgroupId=riTa -DartifactId=riTa -Dversion=1.1.27 -Dpackaging=jar -Dfile=./riTa/1.1.27/RiTa/library/rita.jar
+
+mvn install:install-file -DgroupId=carnivore -DartifactId=carnivore -Dversion=8 -Dpackaging=jar -Dfile=./carnivore/8/carnivore/library/carnivore.jar
 
 mvn install:install-file -DgroupId=mapThing -DartifactId=mapThing -Dversion=1.4 -Dpackaging=jar -Dfile=./mapThing/1.4/MapThing/library/geoapi-2.3-M1.jar
 
