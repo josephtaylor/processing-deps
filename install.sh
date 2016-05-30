@@ -311,3 +311,5 @@ mvn install:install-file -DgroupId=org.processing -DartifactId=processing-core -
 
 mvn install:install-file -DgroupId=org.processing -DartifactId=processing-core -Dversion=3.0b4 -Dpackaging=jar -Dfile=./processing/3.0b4/core.jar
 
+mvn install:install-file -DgroupId=org.processing -DartifactId=processing-core -Dversion=3.1 -Dpackaging=jar -Dfile=./processing/3.1/core.jar
+
