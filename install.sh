@@ -29,6 +29,10 @@ mvn install:install-file -DgroupId=1_Unistroke_Recognizer -DartifactId=1_Unistro
 
 mvn install:install-file -DgroupId=openCV_for_Processing -DartifactId=openCV_for_Processing -Dversion=0.5.2 -Dpackaging=jar -Dfile=./openCV_for_Processing/0.5.2/opencv_processing/library/opencv-245.jar
 
+mvn install:install-file -DgroupId=imageLoader -DartifactId=imageLoader -Dversion=3.0.1 -Dpackaging=jar -Dfile=./imageLoader/3.0.1/ImageLoader/library/gson.jar
+
+mvn install:install-file -DgroupId=console -DartifactId=console -Dversion=1.0.4 -Dpackaging=jar -Dfile=./console/1.0.4/Console/library/Console.jar
+
 mvn install:install-file -DgroupId=steganos -DartifactId=steganos -Dversion=1.0.1 -Dpackaging=jar -Dfile=./steganos/1.0.1/Steganos/library/Steganos.jar
 
 mvn install:install-file -DgroupId=punktiert -DartifactId=punktiert -Dversion=2.0 -Dpackaging=jar -Dfile=./punktiert/2.0/punktiert/punktiert/library/punktiert.jar

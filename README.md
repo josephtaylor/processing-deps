@@ -179,6 +179,22 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### ImageLoader - 3.0.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;imageLoader&lt;/groupId&gt;
+	&lt;artifactId&gt;imageLoader&lt;/artifactId&gt;
+	&lt;version&gt;3.0.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Console - 1.0.4
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;console&lt;/groupId&gt;
+	&lt;artifactId&gt;console&lt;/artifactId&gt;
+	&lt;version&gt;1.0.4&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Steganos - 1.0.1
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;steganos&lt;/groupId&gt;
