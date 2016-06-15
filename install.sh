@@ -73,6 +73,8 @@ mvn install:install-file -DgroupId=nextText -DartifactId=nextText -Dversion=2.0.
 
 mvn install:install-file -DgroupId=sound -DartifactId=sound -Dversion=1.3.2 -Dpackaging=jar -Dfile=./sound/1.3.2/sound/library/sound.jar
 
+mvn install:install-file -DgroupId=most_Pixels_Ever -DartifactId=most_Pixels_Ever -Dversion=2.0.3 -Dpackaging=jar -Dfile=./most_Pixels_Ever/2.0.3/mpe/library/mpe.jar
+
 mvn install:install-file -DgroupId=kinect4WinSDK -DartifactId=kinect4WinSDK -Dversion=1.2.0 -Dpackaging=jar -Dfile=./kinect4WinSDK/1.2.0/Kinect4WinSDK/library/Kinect4WinSDK.jar
 
 mvn install:install-file -DgroupId=riTa -DartifactId=riTa -Dversion=1.1.35 -Dpackaging=jar -Dfile=./riTa/1.1.35/RiTa/library/rita.jar
@@ -112,6 +114,8 @@ mvn install:install-file -DgroupId=gicentreUtils -DartifactId=gicentreUtils -Dve
 mvn install:install-file -DgroupId=bRigid -DartifactId=bRigid -Dversion=2.1 -Dpackaging=jar -Dfile=./bRigid/2.1/bRigid/library/bRigid.jar
 
 mvn install:install-file -DgroupId=path_Finder -DartifactId=path_Finder -Dversion=1.0 -Dpackaging=jar -Dfile=./path_Finder/1.0/Path_Finder/library/Path_Finder.jar
+
+mvn install:install-file -DgroupId=leap_Motion_for_Processing -DartifactId=leap_Motion_for_Processing -Dversion=2.3.1.3 -Dpackaging=jar -Dfile=./leap_Motion_for_Processing/2.3.1.3/LeapMotionForProcessing/library/LeapMotionForProcessing.jar
 
 mvn install:install-file -DgroupId=video_Export -DartifactId=video_Export -Dversion=0.0.9 -Dpackaging=jar -Dfile=./video_Export/0.0.9/VideoExport/library/VideoExport.jar
 
@@ -191,6 +195,8 @@ mvn install:install-file -DgroupId=oBJExport -DartifactId=oBJExport -Dversion=0.
 
 mvn install:install-file -DgroupId=oOCSI_for_Processing -DartifactId=oOCSI_for_Processing -Dversion=0.8 -Dpackaging=jar -Dfile=./oOCSI_for_Processing/0.8/oocsi/library/oocsi.jar
 
+mvn install:install-file -DgroupId=gL_Video -DartifactId=gL_Video -Dversion=1.0.2 -Dpackaging=jar -Dfile=./gL_Video/1.0.2/glvideo/library/glvideo.jar
+
 mvn install:install-file -DgroupId=drop -DartifactId=drop -Dversion=1.0.2 -Dpackaging=jar -Dfile=./drop/1.0.2/Drop/library/Drop.jar
 
 mvn install:install-file -DgroupId=fontastic -DartifactId=fontastic -Dversion=0.4 -Dpackaging=jar -Dfile=./fontastic/0.4/Fontastic/library/Fontastic.jar
@@ -243,6 +249,8 @@ mvn install:install-file -DgroupId=ptmx -DartifactId=ptmx -Dversion=0.2 -Dpackag
 
 mvn install:install-file -DgroupId=sketchMapper -DartifactId=sketchMapper -Dversion=4.0.0 -Dpackaging=jar -Dfile=./sketchMapper/4.0.0/SketchMapper/library/SketchMapper.jar
 
+mvn install:install-file -DgroupId=g4P -DartifactId=g4P -Dversion=4.0.4 -Dpackaging=jar -Dfile=./g4P/4.0.4/G4P/library/G4P.jar
+
 mvn install:install-file -DgroupId=sound -DartifactId=sound -Dversion=1.3.1 -Dpackaging=jar -Dfile=./sound/1.3.1/sound/library/sound.jar
 
 mvn install:install-file -DgroupId=sudden_Motion_Sensor -DartifactId=sudden_Motion_Sensor -Dversion=0.1a -Dpackaging=jar -Dfile=./sudden_Motion_Sensor/0.1a/sms/library/sms.jar
@@ -291,6 +299,8 @@ mvn install:install-file -DgroupId=apple_Light_Sensor -DartifactId=apple_Light_S
 
 mvn install:install-file -DgroupId=pixelPusher -DartifactId=pixelPusher -Dversion=20141222 -Dpackaging=jar -Dfile=./pixelPusher/20141222/PixelPusher/library/PixelPusher.jar
 
+mvn install:install-file -DgroupId=riTa -DartifactId=riTa -Dversion=1.1.39 -Dpackaging=jar -Dfile=./riTa/1.1.39/RiTa/library/rita.jar
+
 mvn install:install-file -DgroupId=riTa -DartifactId=riTa -Dversion=1.1.27 -Dpackaging=jar -Dfile=./riTa/1.1.27/RiTa/library/rita.jar
 
 mvn install:install-file -DgroupId=carnivore -DartifactId=carnivore -Dversion=8 -Dpackaging=jar -Dfile=./carnivore/8/carnivore/library/carnivore.jar
@@ -302,6 +312,8 @@ mvn install:install-file -DgroupId=aI_for_2D_Games -DartifactId=aI_for_2D_Games 
 mvn install:install-file -DgroupId=redis -DartifactId=redis -Dversion=1.1.3 -Dpackaging=jar -Dfile=./redis/1.1.3/Redis/library/Redis.jar
 
 mvn install:install-file -DgroupId=picking -DartifactId=picking -Dversion=0.2.1 -Dpackaging=jar -Dfile=./picking/0.2.1/Picking/library/Picking.jar
+
+mvn install:install-file -DgroupId=sketchMapper -DartifactId=sketchMapper -Dversion=4.1.1 -Dpackaging=jar -Dfile=./sketchMapper/4.1.1/SketchMapper/library/SketchMapper.jar
 
 mvn install:install-file -DgroupId=riTa -DartifactId=riTa -Dversion=1.1.19 -Dpackaging=jar -Dfile=./riTa/1.1.19/RiTa/library/rita.jar
 

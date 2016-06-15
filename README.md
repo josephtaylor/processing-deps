@@ -355,6 +355,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Most Pixels Ever - 2.0.3
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;most_Pixels_Ever&lt;/groupId&gt;
+	&lt;artifactId&gt;most_Pixels_Ever&lt;/artifactId&gt;
+	&lt;version&gt;2.0.3&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Kinect4WinSDK - 1.2.0
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;kinect4WinSDK&lt;/groupId&gt;
@@ -512,6 +520,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;path_Finder&lt;/groupId&gt;
 	&lt;artifactId&gt;path_Finder&lt;/artifactId&gt;
 	&lt;version&gt;1.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Leap Motion for Processing - 2.3.1.3
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;leap_Motion_for_Processing&lt;/groupId&gt;
+	&lt;artifactId&gt;leap_Motion_for_Processing&lt;/artifactId&gt;
+	&lt;version&gt;2.3.1.3&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -827,6 +843,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### GL Video - 1.0.2
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;gL_Video&lt;/groupId&gt;
+	&lt;artifactId&gt;gL_Video&lt;/artifactId&gt;
+	&lt;version&gt;1.0.2&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Drop - 1.0.2
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;drop&lt;/groupId&gt;
@@ -1035,6 +1059,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### G4P - 4.0.4
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;g4P&lt;/groupId&gt;
+	&lt;artifactId&gt;g4P&lt;/artifactId&gt;
+	&lt;version&gt;4.0.4&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Sound - 1.3.1
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;sound&lt;/groupId&gt;
@@ -1227,6 +1259,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### RiTa - 1.1.39
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;riTa&lt;/groupId&gt;
+	&lt;artifactId&gt;riTa&lt;/artifactId&gt;
+	&lt;version&gt;1.1.39&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### RiTa - 1.1.27
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;riTa&lt;/groupId&gt;
@@ -1272,6 +1312,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;picking&lt;/groupId&gt;
 	&lt;artifactId&gt;picking&lt;/artifactId&gt;
 	&lt;version&gt;0.2.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### SketchMapper - 4.1.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;sketchMapper&lt;/groupId&gt;
+	&lt;artifactId&gt;sketchMapper&lt;/artifactId&gt;
+	&lt;version&gt;4.1.1&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
