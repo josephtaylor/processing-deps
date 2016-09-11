@@ -75,6 +75,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### G4P - 4.0.5
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;g4P&lt;/groupId&gt;
+	&lt;artifactId&gt;g4P&lt;/artifactId&gt;
+	&lt;version&gt;4.0.5&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### IgnoCodeLib 0.4 - 0.4
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;ignoCodeLib_0_4&lt;/groupId&gt;
@@ -160,6 +168,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;blinkStick&lt;/groupId&gt;
 	&lt;artifactId&gt;blinkStick&lt;/artifactId&gt;
 	&lt;version&gt;0.2.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Zxing For Processing (QRCode lib) - 3.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;zxing_For_Processing_QRCode_lib&lt;/groupId&gt;
+	&lt;artifactId&gt;zxing_For_Processing_QRCode_lib&lt;/artifactId&gt;
+	&lt;version&gt;3.1&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -251,6 +267,22 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Leap Motion for Processing - 2.3.1.5
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;leap_Motion_for_Processing&lt;/groupId&gt;
+	&lt;artifactId&gt;leap_Motion_for_Processing&lt;/artifactId&gt;
+	&lt;version&gt;2.3.1.5&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### proscene - 3.0.0-beta.5
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;proscene&lt;/groupId&gt;
+	&lt;artifactId&gt;proscene&lt;/artifactId&gt;
+	&lt;version&gt;3.0.0-beta.5&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### ControlP5 - 2.2.6
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;controlP5&lt;/groupId&gt;
@@ -267,6 +299,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### PixelFlow - 0.19
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;pixelFlow&lt;/groupId&gt;
+	&lt;artifactId&gt;pixelFlow&lt;/artifactId&gt;
+	&lt;version&gt;0.19&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### GaussSense SDK for Processing - 1.0.0
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;gaussSense_SDK_for_Processing&lt;/groupId&gt;
@@ -280,6 +320,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;bezierSQLib&lt;/groupId&gt;
 	&lt;artifactId&gt;bezierSQLib&lt;/artifactId&gt;
 	&lt;version&gt;0.2.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### RiTa - 1.1.40
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;riTa&lt;/groupId&gt;
+	&lt;artifactId&gt;riTa&lt;/artifactId&gt;
+	&lt;version&gt;1.1.40&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -459,6 +507,22 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### OOCSI for Processing - 1.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;oOCSI_for_Processing&lt;/groupId&gt;
+	&lt;artifactId&gt;oOCSI_for_Processing&lt;/artifactId&gt;
+	&lt;version&gt;1.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Video Export - 0.1.4
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;video_Export&lt;/groupId&gt;
+	&lt;artifactId&gt;video_Export&lt;/artifactId&gt;
+	&lt;version&gt;0.1.4&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### SimpleOpenNI - 1.96
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;simpleOpenNI&lt;/groupId&gt;
@@ -544,6 +608,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;peasyCam&lt;/groupId&gt;
 	&lt;artifactId&gt;peasyCam&lt;/artifactId&gt;
 	&lt;version&gt;201&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### GaussSense SDK for Processing - 1.0.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;gaussSense_SDK_for_Processing&lt;/groupId&gt;
+	&lt;artifactId&gt;gaussSense_SDK_for_Processing&lt;/artifactId&gt;
+	&lt;version&gt;1.0.1&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -827,6 +899,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Temboo - 2.18.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;temboo&lt;/groupId&gt;
+	&lt;artifactId&gt;temboo&lt;/artifactId&gt;
+	&lt;version&gt;2.18.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### OBJExport - 0.2.4
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;oBJExport&lt;/groupId&gt;
@@ -1040,6 +1120,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;gL_Video&lt;/groupId&gt;
 	&lt;artifactId&gt;gL_Video&lt;/artifactId&gt;
 	&lt;version&gt;1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### ToxicLibs - 22
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;toxicLibs&lt;/groupId&gt;
+	&lt;artifactId&gt;toxicLibs&lt;/artifactId&gt;
+	&lt;version&gt;22&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -1259,6 +1347,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### QueasyCam - 1.4
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;queasyCam&lt;/groupId&gt;
+	&lt;artifactId&gt;queasyCam&lt;/artifactId&gt;
+	&lt;version&gt;1.4&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### RiTa - 1.1.39
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;riTa&lt;/groupId&gt;
@@ -1312,6 +1408,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;picking&lt;/groupId&gt;
 	&lt;artifactId&gt;picking&lt;/artifactId&gt;
 	&lt;version&gt;0.2.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### MQTT - 1.6.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;mQTT&lt;/groupId&gt;
+	&lt;artifactId&gt;mQTT&lt;/artifactId&gt;
+	&lt;version&gt;1.6.1&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
