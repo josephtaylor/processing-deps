@@ -155,6 +155,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### PixelFlow - 0.21
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;pixelFlow&lt;/groupId&gt;
+	&lt;artifactId&gt;pixelFlow&lt;/artifactId&gt;
+	&lt;version&gt;0.21&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### ImageLoader - 2.0.1
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;imageLoader&lt;/groupId&gt;
@@ -200,6 +208,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;imageLoader&lt;/groupId&gt;
 	&lt;artifactId&gt;imageLoader&lt;/artifactId&gt;
 	&lt;version&gt;3.0.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### grafica - 1.7.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;grafica&lt;/groupId&gt;
+	&lt;artifactId&gt;grafica&lt;/artifactId&gt;
+	&lt;version&gt;1.7.0&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -515,6 +531,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### GL Video - 1.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;gL_Video&lt;/groupId&gt;
+	&lt;artifactId&gt;gL_Video&lt;/artifactId&gt;
+	&lt;version&gt;1.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Video Export - 0.1.4
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;video_Export&lt;/groupId&gt;
@@ -707,6 +731,22 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### HiVis - 1.1.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;hiVis&lt;/groupId&gt;
+	&lt;artifactId&gt;hiVis&lt;/artifactId&gt;
+	&lt;version&gt;1.1.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### OOCSI for Processing - 1.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;oOCSI_for_Processing&lt;/groupId&gt;
+	&lt;artifactId&gt;oOCSI_for_Processing&lt;/artifactId&gt;
+	&lt;version&gt;1.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Hermes - 2.0
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;hermes&lt;/groupId&gt;
@@ -851,6 +891,22 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### ColorBlindness - 1.0.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;colorBlindness&lt;/groupId&gt;
+	&lt;artifactId&gt;colorBlindness&lt;/artifactId&gt;
+	&lt;version&gt;1.0.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### proscene - 3.0.0-beta.8
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;proscene&lt;/groupId&gt;
+	&lt;artifactId&gt;proscene&lt;/artifactId&gt;
+	&lt;version&gt;3.0.0-beta.8&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### LeapMotion - 1.26
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;leapMotion&lt;/groupId&gt;
@@ -864,6 +920,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;beads&lt;/groupId&gt;
 	&lt;artifactId&gt;beads&lt;/artifactId&gt;
 	&lt;version&gt;1.01&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Loom - 1.0.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;loom&lt;/groupId&gt;
+	&lt;artifactId&gt;loom&lt;/artifactId&gt;
+	&lt;version&gt;1.0.0&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -1075,6 +1139,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### G4P - 4.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;g4P&lt;/groupId&gt;
+	&lt;artifactId&gt;g4P&lt;/artifactId&gt;
+	&lt;version&gt;4.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Computational Geometry - 3.0
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;computational_Geometry&lt;/groupId&gt;
@@ -1200,6 +1272,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;blobDetection&lt;/groupId&gt;
 	&lt;artifactId&gt;blobDetection&lt;/artifactId&gt;
 	&lt;version&gt;1.00&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Temboo - 2.18.2
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;temboo&lt;/groupId&gt;
+	&lt;artifactId&gt;temboo&lt;/artifactId&gt;
+	&lt;version&gt;2.18.2&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 

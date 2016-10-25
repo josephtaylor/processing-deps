@@ -23,6 +23,8 @@ mvn install:install-file -DgroupId=iPCapture -DartifactId=iPCapture -Dversion=0.
 
 mvn install:install-file -DgroupId=xlsReader -DartifactId=xlsReader -Dversion=0.1.1 -Dpackaging=jar -Dfile=./xlsReader/0.1.1/XlsReader/library/XlsReader.jar
 
+mvn install:install-file -DgroupId=pixelFlow -DartifactId=pixelFlow -Dversion=0.21 -Dpackaging=jar -Dfile=./pixelFlow/0.21/PixelFlow/library/PixelFlow.jar
+
 mvn install:install-file -DgroupId=imageLoader -DartifactId=imageLoader -Dversion=2.0.1 -Dpackaging=jar -Dfile=./imageLoader/2.0.1/ImageLoader/library/gson.jar
 
 mvn install:install-file -DgroupId=blinkStick -DartifactId=blinkStick -Dversion=0.2.0 -Dpackaging=jar -Dfile=./blinkStick/0.2.0/BlinkStick/library/BlinkStick.jar
@@ -34,6 +36,8 @@ mvn install:install-file -DgroupId=1_Unistroke_Recognizer -DartifactId=1_Unistro
 mvn install:install-file -DgroupId=openCV_for_Processing -DartifactId=openCV_for_Processing -Dversion=0.5.2 -Dpackaging=jar -Dfile=./openCV_for_Processing/0.5.2/opencv_processing/library/opencv-245.jar
 
 mvn install:install-file -DgroupId=imageLoader -DartifactId=imageLoader -Dversion=3.0.1 -Dpackaging=jar -Dfile=./imageLoader/3.0.1/ImageLoader/library/gson.jar
+
+mvn install:install-file -DgroupId=grafica -DartifactId=grafica -Dversion=1.7.0 -Dpackaging=jar -Dfile=./grafica/1.7.0/grafica/library/grafica.jar
 
 mvn install:install-file -DgroupId=console -DartifactId=console -Dversion=1.0.4 -Dpackaging=jar -Dfile=./console/1.0.4/Console/library/Console.jar
 
@@ -113,6 +117,8 @@ mvn install:install-file -DgroupId=carnivore -DartifactId=carnivore -Dversion=7 
 
 mvn install:install-file -DgroupId=oOCSI_for_Processing -DartifactId=oOCSI_for_Processing -Dversion=1.0 -Dpackaging=jar -Dfile=./oOCSI_for_Processing/1.0/oocsi/library/oocsi.jar
 
+mvn install:install-file -DgroupId=gL_Video -DartifactId=gL_Video -Dversion=1.1 -Dpackaging=jar -Dfile=./gL_Video/1.1/glvideo/library/glvideo.jar
+
 mvn install:install-file -DgroupId=video_Export -DartifactId=video_Export -Dversion=0.1.4 -Dpackaging=jar -Dfile=./video_Export/0.1.4/VideoExport/library/VideoExport.jar
 
 mvn install:install-file -DgroupId=simpleOpenNI -DartifactId=simpleOpenNI -Dversion=1.96 -Dpackaging=jar -Dfile=./simpleOpenNI/1.96/SimpleOpenNI/library/SimpleOpenNI.jar
@@ -161,6 +167,10 @@ mvn install:install-file -DgroupId=tablet -DartifactId=tablet -Dversion=2.0-alph
 
 mvn install:install-file -DgroupId=spout_for_Processing -DartifactId=spout_for_Processing -Dversion=2.0.5.3 -Dpackaging=jar -Dfile=./spout_for_Processing/2.0.5.3/spout/library/spout.jar
 
+mvn install:install-file -DgroupId=hiVis -DartifactId=hiVis -Dversion=1.1.1 -Dpackaging=jar -Dfile=./hiVis/1.1.1/HiVis/library/HiVis.jar
+
+mvn install:install-file -DgroupId=oOCSI_for_Processing -DartifactId=oOCSI_for_Processing -Dversion=1.1 -Dpackaging=jar -Dfile=./oOCSI_for_Processing/1.1/oocsi/library/oocsi.jar
+
 mvn install:install-file -DgroupId=hermes -DartifactId=hermes -Dversion=2.0 -Dpackaging=jar -Dfile=./hermes/2.0/hermes/library/hermes.jar
 
 mvn install:install-file -DgroupId=grafica -DartifactId=grafica -Dversion=1.5.0 -Dpackaging=jar -Dfile=./grafica/1.5.0/grafica/library/grafica.jar
@@ -197,9 +207,15 @@ mvn install:install-file -DgroupId=ignoCodeLib -DartifactId=ignoCodeLib -Dversio
 
 mvn install:install-file -DgroupId=proJMS -DartifactId=proJMS -Dversion=0.2 -Dpackaging=jar -Dfile=./proJMS/0.2/proJMS/library/proJMS.jar
 
+mvn install:install-file -DgroupId=colorBlindness -DartifactId=colorBlindness -Dversion=1.0.0 -Dpackaging=jar -Dfile=./colorBlindness/1.0.0/ColorBlindness/library/ColorBlindness.jar
+
+mvn install:install-file -DgroupId=proscene -DartifactId=proscene -Dversion=3.0.0-beta.8 -Dpackaging=jar -Dfile=./proscene/3.0.0-beta.8/proscene/library/proscene.jar
+
 mvn install:install-file -DgroupId=leapMotion -DartifactId=leapMotion -Dversion=1.26 -Dpackaging=jar -Dfile=./leapMotion/1.26/LeapMotion/library/LeapJava.jar
 
 mvn install:install-file -DgroupId=beads -DartifactId=beads -Dversion=1.01 -Dpackaging=jar -Dfile=./beads/1.01/beads/library/org-jaudiolibs-jnajack.jar
+
+mvn install:install-file -DgroupId=loom -DartifactId=loom -Dversion=1.0.0 -Dpackaging=jar -Dfile=./loom/1.0.0/loom/library/loom.jar
 
 mvn install:install-file -DgroupId=nXTComm_Processing -DartifactId=nXTComm_Processing -Dversion=0.99 -Dpackaging=jar -Dfile=./nXTComm_Processing/0.99/NXTComm/library/NXTComm.jar
 
@@ -253,6 +269,8 @@ mvn install:install-file -DgroupId=gamepad -DartifactId=gamepad -Dversion=2.0 -D
 
 mvn install:install-file -DgroupId=tactu5 -DartifactId=tactu5 -Dversion=1.0.2 -Dpackaging=jar -Dfile=./tactu5/1.0.2/tactu5/library/tactu5.jar
 
+mvn install:install-file -DgroupId=g4P -DartifactId=g4P -Dversion=4.1 -Dpackaging=jar -Dfile=./g4P/4.1/G4P/library/G4P.jar
+
 mvn install:install-file -DgroupId=computational_Geometry -DartifactId=computational_Geometry -Dversion=3.0 -Dpackaging=jar -Dfile=./computational_Geometry/3.0/ComputationalGeometry/library/ComputationalGeometry.jar
 
 mvn install:install-file -DgroupId=geomerative -DartifactId=geomerative -Dversion=40 -Dpackaging=jar -Dfile=./geomerative/40/geomerative/library/geomerative.jar
@@ -282,6 +300,8 @@ mvn install:install-file -DgroupId=eliza -DartifactId=eliza -Dversion=1.0 -Dpack
 mvn install:install-file -DgroupId=oCD_Obsessive_Camera_Direction -DartifactId=oCD_Obsessive_Camera_Direction -Dversion=1.5 -Dpackaging=jar -Dfile=./oCD_Obsessive_Camera_Direction/1.5/ocd/library/ocd.jar
 
 mvn install:install-file -DgroupId=blobDetection -DartifactId=blobDetection -Dversion=1.00 -Dpackaging=jar -Dfile=./blobDetection/1.00/blobDetection/library/blobDetection.jar
+
+mvn install:install-file -DgroupId=temboo -DartifactId=temboo -Dversion=2.18.2 -Dpackaging=jar -Dfile=./temboo/2.18.2/temboo/library/choreos.jar
 
 mvn install:install-file -DgroupId=andrew_s_Utilities_AULib -DartifactId=andrew_s_Utilities_AULib -Dversion=2.2.1 -Dpackaging=jar -Dfile=./andrew_s_Utilities_AULib/2.2.1/AULib/library/AULib.jar
 
