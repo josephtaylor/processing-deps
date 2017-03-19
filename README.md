@@ -75,6 +75,22 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Picking - 0.3.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;picking&lt;/groupId&gt;
+	&lt;artifactId&gt;picking&lt;/artifactId&gt;
+	&lt;version&gt;0.3.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Video Export - 0.1.6
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;video_Export&lt;/groupId&gt;
+	&lt;artifactId&gt;video_Export&lt;/artifactId&gt;
+	&lt;version&gt;0.1.6&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### G4P - 4.0.5
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;g4P&lt;/groupId&gt;
@@ -107,11 +123,27 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### dmxP512 - 1.3
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;dmxP512&lt;/groupId&gt;
+	&lt;artifactId&gt;dmxP512&lt;/artifactId&gt;
+	&lt;version&gt;1.3&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### ImageLoader - 1.0.0
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;imageLoader&lt;/groupId&gt;
 	&lt;artifactId&gt;imageLoader&lt;/artifactId&gt;
 	&lt;version&gt;1.0.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### RiTa - 1.1.51
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;riTa&lt;/groupId&gt;
+	&lt;artifactId&gt;riTa&lt;/artifactId&gt;
+	&lt;version&gt;1.1.51&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -363,6 +395,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### G4P - 4.1.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;g4P&lt;/groupId&gt;
+	&lt;artifactId&gt;g4P&lt;/artifactId&gt;
+	&lt;version&gt;4.1.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### ttslib - 0.4
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;ttslib&lt;/groupId&gt;
@@ -400,6 +440,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;temboo&lt;/groupId&gt;
 	&lt;artifactId&gt;temboo&lt;/artifactId&gt;
 	&lt;version&gt;2.13.2&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Camera 3D - 1.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;camera_3D&lt;/groupId&gt;
+	&lt;artifactId&gt;camera_3D&lt;/artifactId&gt;
+	&lt;version&gt;1.1&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -683,6 +731,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### HE_Mesh - 5.0.3
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;hE_Mesh&lt;/groupId&gt;
+	&lt;artifactId&gt;hE_Mesh&lt;/artifactId&gt;
+	&lt;version&gt;5.0.3&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Tablet - 2.0-alpha3
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;tablet&lt;/groupId&gt;
@@ -696,6 +752,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;leap_Motion_for_Processing&lt;/groupId&gt;
 	&lt;artifactId&gt;leap_Motion_for_Processing&lt;/artifactId&gt;
 	&lt;version&gt;2.3.1.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### PixelFlow - 0.42
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;pixelFlow&lt;/groupId&gt;
+	&lt;artifactId&gt;pixelFlow&lt;/artifactId&gt;
+	&lt;version&gt;0.42&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -739,6 +803,22 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### GL Video - 1.2.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;gL_Video&lt;/groupId&gt;
+	&lt;artifactId&gt;gL_Video&lt;/artifactId&gt;
+	&lt;version&gt;1.2.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Spout for Processing - 2.0.6.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;spout_for_Processing&lt;/groupId&gt;
+	&lt;artifactId&gt;spout_for_Processing&lt;/artifactId&gt;
+	&lt;version&gt;2.0.6.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### OOCSI for Processing - 1.1
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;oOCSI_for_Processing&lt;/groupId&gt;
@@ -763,11 +843,27 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### IPCapture - 0.4.2
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;iPCapture&lt;/groupId&gt;
+	&lt;artifactId&gt;iPCapture&lt;/artifactId&gt;
+	&lt;version&gt;0.4.2&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Collada Loader for Google Sketchup - 3.0b
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;collada_Loader_for_Google_Sketchup&lt;/groupId&gt;
 	&lt;artifactId&gt;collada_Loader_for_Google_Sketchup&lt;/artifactId&gt;
 	&lt;version&gt;3.0b&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### proscene - 3.0.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;proscene&lt;/groupId&gt;
+	&lt;artifactId&gt;proscene&lt;/artifactId&gt;
+	&lt;version&gt;3.0.0&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -987,6 +1083,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### OOCSI for Processing - 1.2
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;oOCSI_for_Processing&lt;/groupId&gt;
+	&lt;artifactId&gt;oOCSI_for_Processing&lt;/artifactId&gt;
+	&lt;version&gt;1.2&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### GL Video - 1.0.2
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;gL_Video&lt;/groupId&gt;
@@ -1040,6 +1144,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;the_MidiBus&lt;/groupId&gt;
 	&lt;artifactId&gt;the_MidiBus&lt;/artifactId&gt;
 	&lt;version&gt;8&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Arduino (Firmata) - 9
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;arduino_Firmata&lt;/groupId&gt;
+	&lt;artifactId&gt;arduino_Firmata&lt;/artifactId&gt;
+	&lt;version&gt;9&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -1131,6 +1243,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Leap Motion for Processing - 2.3.1.6
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;leap_Motion_for_Processing&lt;/groupId&gt;
+	&lt;artifactId&gt;leap_Motion_for_Processing&lt;/artifactId&gt;
+	&lt;version&gt;2.3.1.6&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### tactu5 - 1.0.2
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;tactu5&lt;/groupId&gt;
@@ -1219,6 +1339,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Temboo - 2.19.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;temboo&lt;/groupId&gt;
+	&lt;artifactId&gt;temboo&lt;/artifactId&gt;
+	&lt;version&gt;2.19.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### G4P - 4.0.4
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;g4P&lt;/groupId&gt;
@@ -1256,6 +1384,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;eliza&lt;/groupId&gt;
 	&lt;artifactId&gt;eliza&lt;/artifactId&gt;
 	&lt;version&gt;1.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### PeasyCam - 202
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;peasyCam&lt;/groupId&gt;
+	&lt;artifactId&gt;peasyCam&lt;/artifactId&gt;
+	&lt;version&gt;202&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -1320,6 +1456,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;sprites&lt;/groupId&gt;
 	&lt;artifactId&gt;sprites&lt;/artifactId&gt;
 	&lt;version&gt;2.1.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### BezierSQLib - 0.3
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;bezierSQLib&lt;/groupId&gt;
+	&lt;artifactId&gt;bezierSQLib&lt;/artifactId&gt;
+	&lt;version&gt;0.3&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -1504,6 +1648,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;sketchMapper&lt;/groupId&gt;
 	&lt;artifactId&gt;sketchMapper&lt;/artifactId&gt;
 	&lt;version&gt;4.1.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### OCT - 0.1.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;oCT&lt;/groupId&gt;
+	&lt;artifactId&gt;oCT&lt;/artifactId&gt;
+	&lt;version&gt;0.1.1&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
