@@ -163,6 +163,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### ColorHarmony - 1.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;colorHarmony&lt;/groupId&gt;
+	&lt;artifactId&gt;colorHarmony&lt;/artifactId&gt;
+	&lt;version&gt;1.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Camera 3D - 1.0
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;camera_3D&lt;/groupId&gt;
@@ -339,6 +347,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Simple Tweet - 1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;simple_Tweet&lt;/groupId&gt;
+	&lt;artifactId&gt;simple_Tweet&lt;/artifactId&gt;
+	&lt;version&gt;1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### MQTT - 1.6.0
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;mQTT&lt;/groupId&gt;
@@ -403,6 +419,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### G4P - 4.1.2
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;g4P&lt;/groupId&gt;
+	&lt;artifactId&gt;g4P&lt;/artifactId&gt;
+	&lt;version&gt;4.1.2&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### ttslib - 0.4
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;ttslib&lt;/groupId&gt;
@@ -424,6 +448,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;iGeo&lt;/groupId&gt;
 	&lt;artifactId&gt;iGeo&lt;/artifactId&gt;
 	&lt;version&gt;0.9.0.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### gwoptics - 0.5.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;gwoptics&lt;/groupId&gt;
+	&lt;artifactId&gt;gwoptics&lt;/artifactId&gt;
+	&lt;version&gt;0.5.0&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -507,6 +539,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### PostFX for Processing - v1.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;postFX_for_Processing&lt;/groupId&gt;
+	&lt;artifactId&gt;postFX_for_Processing&lt;/artifactId&gt;
+	&lt;version&gt;v1.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Motion - 1.3
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;motion&lt;/groupId&gt;
@@ -568,6 +608,22 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;carnivore&lt;/groupId&gt;
 	&lt;artifactId&gt;carnivore&lt;/artifactId&gt;
 	&lt;version&gt;7&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Dashed Lines - 0.0.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;dashed_Lines&lt;/groupId&gt;
+	&lt;artifactId&gt;dashed_Lines&lt;/artifactId&gt;
+	&lt;version&gt;0.0.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Mouse 2D Transformations - 1.0.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;mouse_2D_Transformations&lt;/groupId&gt;
+	&lt;artifactId&gt;mouse_2D_Transformations&lt;/artifactId&gt;
+	&lt;version&gt;1.0.0&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -835,6 +891,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Video Export - 0.1.9
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;video_Export&lt;/groupId&gt;
+	&lt;artifactId&gt;video_Export&lt;/artifactId&gt;
+	&lt;version&gt;0.1.9&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### grafica - 1.5.0
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;grafica&lt;/groupId&gt;
@@ -939,6 +1003,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### PS3Eye - 1.05
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;pS3Eye&lt;/groupId&gt;
+	&lt;artifactId&gt;pS3Eye&lt;/artifactId&gt;
+	&lt;version&gt;1.05&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### punktiert - 3.0
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;punktiert&lt;/groupId&gt;
@@ -952,6 +1024,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;colorScheme&lt;/groupId&gt;
 	&lt;artifactId&gt;colorScheme&lt;/artifactId&gt;
 	&lt;version&gt;2.0.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### RiTa - 1.1.60
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;riTa&lt;/groupId&gt;
+	&lt;artifactId&gt;riTa&lt;/artifactId&gt;
+	&lt;version&gt;1.1.60&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -1000,6 +1080,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;proscene&lt;/groupId&gt;
 	&lt;artifactId&gt;proscene&lt;/artifactId&gt;
 	&lt;version&gt;3.0.0-beta.8&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### PixelFlow - 0.55
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;pixelFlow&lt;/groupId&gt;
+	&lt;artifactId&gt;pixelFlow&lt;/artifactId&gt;
+	&lt;version&gt;0.55&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -1088,6 +1176,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;oOCSI_for_Processing&lt;/groupId&gt;
 	&lt;artifactId&gt;oOCSI_for_Processing&lt;/artifactId&gt;
 	&lt;version&gt;1.2&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Syphon - 2.0-RC2
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;syphon&lt;/groupId&gt;
+	&lt;artifactId&gt;syphon&lt;/artifactId&gt;
+	&lt;version&gt;2.0-RC2&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -1187,6 +1283,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Camera 3D - 1.2
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;camera_3D&lt;/groupId&gt;
+	&lt;artifactId&gt;camera_3D&lt;/artifactId&gt;
+	&lt;version&gt;1.2&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### OBJLoader - 0.99
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;oBJLoader&lt;/groupId&gt;
@@ -1200,6 +1304,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;post_To_Web&lt;/groupId&gt;
 	&lt;artifactId&gt;post_To_Web&lt;/artifactId&gt;
 	&lt;version&gt;0.7&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Timing Utilities - 0.1.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;timing_Utilities&lt;/groupId&gt;
+	&lt;artifactId&gt;timing_Utilities&lt;/artifactId&gt;
+	&lt;version&gt;0.1.1&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -1355,6 +1467,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Simple Receipt Printer - 1.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;simple_Receipt_Printer&lt;/groupId&gt;
+	&lt;artifactId&gt;simple_Receipt_Printer&lt;/artifactId&gt;
+	&lt;version&gt;1.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Sound - 1.3.1
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;sound&lt;/groupId&gt;
@@ -1440,6 +1560,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;fisica&lt;/groupId&gt;
 	&lt;artifactId&gt;fisica&lt;/artifactId&gt;
 	&lt;version&gt;15&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### spacebrewP5 - 0.4.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;spacebrewP5&lt;/groupId&gt;
+	&lt;artifactId&gt;spacebrewP5&lt;/artifactId&gt;
+	&lt;version&gt;0.4.1&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -1568,6 +1696,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;pixelPusher&lt;/groupId&gt;
 	&lt;artifactId&gt;pixelPusher&lt;/artifactId&gt;
 	&lt;version&gt;20141222&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Temboo - 2.20.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;temboo&lt;/groupId&gt;
+	&lt;artifactId&gt;temboo&lt;/artifactId&gt;
+	&lt;version&gt;2.20.0&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 

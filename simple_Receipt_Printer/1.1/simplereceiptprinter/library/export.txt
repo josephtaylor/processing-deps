@@ -1,0 +1,1 @@
+name = Print on attached Thermal Receipt Printers
