@@ -431,6 +431,8 @@ mvn install:install-file -DgroupId=hE_Mesh -DartifactId=hE_Mesh -Dversion=6.1.1 
 
 mvn install:install-file -DgroupId=spacebrewP5 -DartifactId=spacebrewP5 -Dversion=0.4.1 -Dpackaging=jar -Dfile=./spacebrewP5/0.4.1/spacebrew/library/spacebrew.jar
 
+mvn install:install-file -DgroupId=sketchMapper -DartifactId=sketchMapper -Dversion=4.1.3 -Dpackaging=jar -Dfile=./sketchMapper/4.1.3/SketchMapper/library/SketchMapper.jar
+
 mvn install:install-file -DgroupId=fisica -DartifactId=fisica -Dversion=16 -Dpackaging=jar -Dfile=./fisica/16/fisica/library/fisica.jar
 
 mvn install:install-file -DgroupId=spout_for_Processing -DartifactId=spout_for_Processing -Dversion=2.0.5.4 -Dpackaging=jar -Dfile=./spout_for_Processing/2.0.5.4/spout/library/spout.jar

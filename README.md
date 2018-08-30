@@ -1803,6 +1803,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### SketchMapper - 4.1.3
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;sketchMapper&lt;/groupId&gt;
+	&lt;artifactId&gt;sketchMapper&lt;/artifactId&gt;
+	&lt;version&gt;4.1.3&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Fisica - 16
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;fisica&lt;/groupId&gt;
