@@ -139,6 +139,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Scratch - 1.6.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;scratch&lt;/groupId&gt;
+	&lt;artifactId&gt;scratch&lt;/artifactId&gt;
+	&lt;version&gt;1.6.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### dmxP512 - 1.3
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;dmxP512&lt;/groupId&gt;
@@ -499,6 +507,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### RiTa - 1.3.86
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;riTa&lt;/groupId&gt;
+	&lt;artifactId&gt;riTa&lt;/artifactId&gt;
+	&lt;version&gt;1.3.86&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### SelectFile - 0.0.2
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;selectFile&lt;/groupId&gt;
@@ -731,6 +747,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### OOCSI for Processing - 1.3.8
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;oOCSI_for_Processing&lt;/groupId&gt;
+	&lt;artifactId&gt;oOCSI_for_Processing&lt;/artifactId&gt;
+	&lt;version&gt;1.3.8&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Guido - 0.0.4
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;guido&lt;/groupId&gt;
@@ -899,6 +923,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Tramontana - 1.0.3
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;tramontana&lt;/groupId&gt;
+	&lt;artifactId&gt;tramontana&lt;/artifactId&gt;
+	&lt;version&gt;1.0.3&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### PeasyCam - 201
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;peasyCam&lt;/groupId&gt;
@@ -1040,6 +1072,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;gL_Video&lt;/groupId&gt;
 	&lt;artifactId&gt;gL_Video&lt;/artifactId&gt;
 	&lt;version&gt;1.2.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Simple Touch - 1.0.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;simple_Touch&lt;/groupId&gt;
+	&lt;artifactId&gt;simple_Touch&lt;/artifactId&gt;
+	&lt;version&gt;1.0.1&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -1443,6 +1483,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Camera 3D - 1.2.2
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;camera_3D&lt;/groupId&gt;
+	&lt;artifactId&gt;camera_3D&lt;/artifactId&gt;
+	&lt;version&gt;1.2.2&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### The MidiBus - 8
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;the_MidiBus&lt;/groupId&gt;
@@ -1504,6 +1552,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;oBJLoader&lt;/groupId&gt;
 	&lt;artifactId&gt;oBJLoader&lt;/artifactId&gt;
 	&lt;version&gt;0.99&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Sound - 2.0.2
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;sound&lt;/groupId&gt;
+	&lt;artifactId&gt;sound&lt;/artifactId&gt;
+	&lt;version&gt;2.0.2&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -1827,6 +1883,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### grafica - 1.9.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;grafica&lt;/groupId&gt;
+	&lt;artifactId&gt;grafica&lt;/artifactId&gt;
+	&lt;version&gt;1.9.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### GazeTrack: Eye-tracking for Processing (Tobii EyeX and 4C) - 2.0.3
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;gazeTrack_Eye_tracking_for_Processing_Tobii_EyeX_and_4C&lt;/groupId&gt;
@@ -1952,6 +2016,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;apple_Light_Sensor&lt;/groupId&gt;
 	&lt;artifactId&gt;apple_Light_Sensor&lt;/artifactId&gt;
 	&lt;version&gt;1.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Geomerative - 42
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;geomerative&lt;/groupId&gt;
+	&lt;artifactId&gt;geomerative&lt;/artifactId&gt;
+	&lt;version&gt;42&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
