@@ -347,6 +347,8 @@ mvn install:install-file -DgroupId=drop -DartifactId=drop -Dversion=1.0.2 -Dpack
 
 mvn install:install-file -DgroupId=fontastic -DartifactId=fontastic -Dversion=0.4 -Dpackaging=jar -Dfile=./fontastic/0.4/Fontastic/library/Fontastic.jar
 
+mvn install:install-file -DgroupId=g4P -DartifactId=g4P -Dversion=4.2.0 -Dpackaging=jar -Dfile=./g4P/4.2.0/G4P/library/G4P.jar
+
 mvn install:install-file -DgroupId=executor -DartifactId=executor -Dversion=1.0.2 -Dpackaging=jar -Dfile=./executor/1.0.2/executor/library/executor.jar
 
 mvn install:install-file -DgroupId=ani -DartifactId=ani -Dversion=2.7 -Dpackaging=jar -Dfile=./ani/2.7/Ani/library/Ani.jar
