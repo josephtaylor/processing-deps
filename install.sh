@@ -59,6 +59,8 @@ mvn install:install-file -DgroupId=signal_Filter -DartifactId=signal_Filter -Dve
 
 mvn install:install-file -DgroupId=liquidFunProcessing -DartifactId=liquidFunProcessing -Dversion=1.05 -Dpackaging=jar -Dfile=./liquidFunProcessing/1.05/LiquidFunProcessing/library/LiquidFunProcessing.jar
 
+mvn install:install-file -DgroupId=xYscope -DartifactId=xYscope -Dversion=2.2.0 -Dpackaging=jar -Dfile=./xYscope/2.2.0/XYscope/library/XYscope.jar
+
 mvn install:install-file -DgroupId=openCV_for_Processing -DartifactId=openCV_for_Processing -Dversion=0.5.2 -Dpackaging=jar -Dfile=./openCV_for_Processing/0.5.2/opencv_processing/library/opencv-245.jar
 
 mvn install:install-file -DgroupId=imageLoader -DartifactId=imageLoader -Dversion=3.0.1 -Dpackaging=jar -Dfile=./imageLoader/3.0.1/ImageLoader/library/gson.jar
@@ -92,6 +94,8 @@ mvn install:install-file -DgroupId=console -DartifactId=console -Dversion=1.0.3 
 mvn install:install-file -DgroupId=leap_Motion_for_Processing -DartifactId=leap_Motion_for_Processing -Dversion=2.3.1.5 -Dpackaging=jar -Dfile=./leap_Motion_for_Processing/2.3.1.5/LeapMotionForProcessing/library/LeapMotionForProcessing.jar
 
 mvn install:install-file -DgroupId=proscene -DartifactId=proscene -Dversion=3.0.0-beta.5 -Dpackaging=jar -Dfile=./proscene/3.0.0-beta.5/proscene/library/proscene.jar
+
+mvn install:install-file -DgroupId=vLCJVideo -DartifactId=vLCJVideo -Dversion=0.3.3 -Dpackaging=jar -Dfile=./vLCJVideo/0.3.3/VLCJVideo/library/VLCJVideo.jar
 
 mvn install:install-file -DgroupId=oOCSI_for_Processing -DartifactId=oOCSI_for_Processing -Dversion=1.3.7 -Dpackaging=jar -Dfile=./oOCSI_for_Processing/1.3.7/oocsi/library/oocsi.jar
 
@@ -148,6 +152,8 @@ mvn install:install-file -DgroupId=sound -DartifactId=sound -Dversion=1.3.2 -Dpa
 mvn install:install-file -DgroupId=most_Pixels_Ever -DartifactId=most_Pixels_Ever -Dversion=2.0.3 -Dpackaging=jar -Dfile=./most_Pixels_Ever/2.0.3/mpe/library/mpe.jar
 
 mvn install:install-file -DgroupId=kinect4WinSDK -DartifactId=kinect4WinSDK -Dversion=1.2.0 -Dpackaging=jar -Dfile=./kinect4WinSDK/1.2.0/Kinect4WinSDK/library/Kinect4WinSDK.jar
+
+mvn install:install-file -DgroupId=temboo -DartifactId=temboo -Dversion=2.23.0 -Dpackaging=jar -Dfile=./temboo/2.23.0/temboo/library/choreos.jar
 
 mvn install:install-file -DgroupId=riTa -DartifactId=riTa -Dversion=1.1.35 -Dpackaging=jar -Dfile=./riTa/1.1.35/RiTa/library/rita.jar
 
@@ -233,6 +239,8 @@ mvn install:install-file -DgroupId=timedEvents -DartifactId=timedEvents -Dversio
 
 mvn install:install-file -DgroupId=websockets -DartifactId=websockets -Dversion=0.1b -Dpackaging=jar -Dfile=./websockets/0.1b/webSockets/library/websocket-common-9.3.6.v20151106.jar
 
+mvn install:install-file -DgroupId=handy -DartifactId=handy -Dversion=2.0.0 -Dpackaging=jar -Dfile=./handy/2.0.0/handy/library/handy.jar
+
 mvn install:install-file -DgroupId=hE_Mesh -DartifactId=hE_Mesh -Dversion=5.0.3 -Dpackaging=jar -Dfile=./hE_Mesh/5.0.3/hemesh/library/hemesh.jar
 
 mvn install:install-file -DgroupId=tablet -DartifactId=tablet -Dversion=2.0-alpha3 -Dpackaging=jar -Dfile=./tablet/2.0-alpha3/Tablet/library/Tablet.jar
@@ -264,6 +272,8 @@ mvn install:install-file -DgroupId=gL_Video -DartifactId=gL_Video -Dversion=1.2.
 mvn install:install-file -DgroupId=hermes -DartifactId=hermes -Dversion=2.0 -Dpackaging=jar -Dfile=./hermes/2.0/hermes/library/hermes.jar
 
 mvn install:install-file -DgroupId=video_Export -DartifactId=video_Export -Dversion=0.1.9 -Dpackaging=jar -Dfile=./video_Export/0.1.9/VideoExport/library/VideoExport.jar
+
+mvn install:install-file -DgroupId=bezierSQLib -DartifactId=bezierSQLib -Dversion=0.3.1 -Dpackaging=jar -Dfile=./bezierSQLib/0.3.1/BezierSQLib/library/BezierSQLib.jar
 
 mvn install:install-file -DgroupId=grafica -DartifactId=grafica -Dversion=1.5.0 -Dpackaging=jar -Dfile=./grafica/1.5.0/grafica/library/grafica.jar
 

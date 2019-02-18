@@ -299,6 +299,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### XYscope - 2.2.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;xYscope&lt;/groupId&gt;
+	&lt;artifactId&gt;xYscope&lt;/artifactId&gt;
+	&lt;version&gt;2.2.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### OpenCV for Processing - 0.5.2
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;openCV_for_Processing&lt;/groupId&gt;
@@ -432,6 +440,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;proscene&lt;/groupId&gt;
 	&lt;artifactId&gt;proscene&lt;/artifactId&gt;
 	&lt;version&gt;3.0.0-beta.5&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### VLCJVideo - 0.3.3
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;vLCJVideo&lt;/groupId&gt;
+	&lt;artifactId&gt;vLCJVideo&lt;/artifactId&gt;
+	&lt;version&gt;0.3.3&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -656,6 +672,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;kinect4WinSDK&lt;/groupId&gt;
 	&lt;artifactId&gt;kinect4WinSDK&lt;/artifactId&gt;
 	&lt;version&gt;1.2.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Temboo - 2.23.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;temboo&lt;/groupId&gt;
+	&lt;artifactId&gt;temboo&lt;/artifactId&gt;
+	&lt;version&gt;2.23.0&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -995,6 +1019,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### handy - 2.0.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;handy&lt;/groupId&gt;
+	&lt;artifactId&gt;handy&lt;/artifactId&gt;
+	&lt;version&gt;2.0.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### HE_Mesh - 5.0.3
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;hE_Mesh&lt;/groupId&gt;
@@ -1120,6 +1152,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;video_Export&lt;/groupId&gt;
 	&lt;artifactId&gt;video_Export&lt;/artifactId&gt;
 	&lt;version&gt;0.1.9&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### BezierSQLib - 0.3.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;bezierSQLib&lt;/groupId&gt;
+	&lt;artifactId&gt;bezierSQLib&lt;/artifactId&gt;
+	&lt;version&gt;0.3.1&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
