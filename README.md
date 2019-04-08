@@ -251,6 +251,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Geomerative - 43
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;geomerative&lt;/groupId&gt;
+	&lt;artifactId&gt;geomerative&lt;/artifactId&gt;
+	&lt;version&gt;43&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### ImageLoader - 2.0.1
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;imageLoader&lt;/groupId&gt;
@@ -384,6 +392,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;most_Pixels_Ever&lt;/groupId&gt;
 	&lt;artifactId&gt;most_Pixels_Ever&lt;/artifactId&gt;
 	&lt;version&gt;2.0.2&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### MQTT - 1.7.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;mQTT&lt;/groupId&gt;
+	&lt;artifactId&gt;mQTT&lt;/artifactId&gt;
+	&lt;version&gt;1.7.1&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -840,6 +856,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;sweep_for_Processing&lt;/groupId&gt;
 	&lt;artifactId&gt;sweep_for_Processing&lt;/artifactId&gt;
 	&lt;version&gt;v0.3.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### G4P - 4.2.1
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;g4P&lt;/groupId&gt;
+	&lt;artifactId&gt;g4P&lt;/artifactId&gt;
+	&lt;version&gt;4.2.1&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -1579,6 +1603,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Sound - 2.1.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;sound&lt;/groupId&gt;
+	&lt;artifactId&gt;sound&lt;/artifactId&gt;
+	&lt;version&gt;2.1.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### HTTP Requests for Processing - 0.1.3
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;hTTP_Requests_for_Processing&lt;/groupId&gt;
@@ -1608,6 +1640,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;sound&lt;/groupId&gt;
 	&lt;artifactId&gt;sound&lt;/artifactId&gt;
 	&lt;version&gt;2.0.2&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### RiTa - 1.3.89
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;riTa&lt;/groupId&gt;
+	&lt;artifactId&gt;riTa&lt;/artifactId&gt;
+	&lt;version&gt;1.3.89&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -2104,6 +2144,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;riTa&lt;/groupId&gt;
 	&lt;artifactId&gt;riTa&lt;/artifactId&gt;
 	&lt;version&gt;1.1.39&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Temboo - 2.24.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;temboo&lt;/groupId&gt;
+	&lt;artifactId&gt;temboo&lt;/artifactId&gt;
+	&lt;version&gt;2.24.0&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 

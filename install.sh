@@ -47,6 +47,8 @@ mvn install:install-file -DgroupId=xlsReader -DartifactId=xlsReader -Dversion=0.
 
 mvn install:install-file -DgroupId=pixelFlow -DartifactId=pixelFlow -Dversion=0.21 -Dpackaging=jar -Dfile=./pixelFlow/0.21/PixelFlow/library/PixelFlow.jar
 
+mvn install:install-file -DgroupId=geomerative -DartifactId=geomerative -Dversion=43 -Dpackaging=jar -Dfile=./geomerative/43/geomerative/library/geomerative.jar
+
 mvn install:install-file -DgroupId=imageLoader -DartifactId=imageLoader -Dversion=2.0.1 -Dpackaging=jar -Dfile=./imageLoader/2.0.1/ImageLoader/library/gson.jar
 
 mvn install:install-file -DgroupId=blinkStick -DartifactId=blinkStick -Dversion=0.2.0 -Dpackaging=jar -Dfile=./blinkStick/0.2.0/BlinkStick/library/BlinkStick.jar
@@ -80,6 +82,8 @@ mvn install:install-file -DgroupId=extruder -DartifactId=extruder -Dversion=1.02
 mvn install:install-file -DgroupId=jasmine -DartifactId=jasmine -Dversion=1.0.1 -Dpackaging=jar -Dfile=./jasmine/1.0.1/Jasmine/library/Jasmine.jar
 
 mvn install:install-file -DgroupId=most_Pixels_Ever -DartifactId=most_Pixels_Ever -Dversion=2.0.2 -Dpackaging=jar -Dfile=./most_Pixels_Ever/2.0.2/mpe/library/mpe.jar
+
+mvn install:install-file -DgroupId=mQTT -DartifactId=mQTT -Dversion=1.7.1 -Dpackaging=jar -Dfile=./mQTT/1.7.1/mqtt/library/mqtt.jar
 
 mvn install:install-file -DgroupId=riTa -DartifactId=riTa -Dversion=1.3.85 -Dpackaging=jar -Dfile=./riTa/1.3.85/RiTa/library/rita.jar
 
@@ -194,6 +198,8 @@ mvn install:install-file -DgroupId=planetarium -DartifactId=planetarium -Dversio
 mvn install:install-file -DgroupId=oOCSI_for_Processing -DartifactId=oOCSI_for_Processing -Dversion=1.0 -Dpackaging=jar -Dfile=./oOCSI_for_Processing/1.0/oocsi/library/oocsi.jar
 
 mvn install:install-file -DgroupId=sweep_for_Processing -DartifactId=sweep_for_Processing -Dversion=v0.3.1 -Dpackaging=jar -Dfile=./sweep_for_Processing/v0.3.1/SweepProcessing/library/jsweep-1.3.0.jar
+
+mvn install:install-file -DgroupId=g4P -DartifactId=g4P -Dversion=4.2.1 -Dpackaging=jar -Dfile=./g4P/4.2.1/G4P/library/G4P.jar
 
 mvn install:install-file -DgroupId=gL_Video -DartifactId=gL_Video -Dversion=1.1 -Dpackaging=jar -Dfile=./gL_Video/1.1/glvideo/library/glvideo.jar
 
@@ -377,6 +383,8 @@ mvn install:install-file -DgroupId=unfolding_Maps -DartifactId=unfolding_Maps -D
 
 mvn install:install-file -DgroupId=bRigid -DartifactId=bRigid -Dversion=1.1 -Dpackaging=jar -Dfile=./bRigid/1.1/bRigid/library/bRigid.jar
 
+mvn install:install-file -DgroupId=sound -DartifactId=sound -Dversion=2.1.0 -Dpackaging=jar -Dfile=./sound/2.1.0/sound/library/jsyn-20171016.jar
+
 mvn install:install-file -DgroupId=hTTP_Requests_for_Processing -DartifactId=hTTP_Requests_for_Processing -Dversion=0.1.3 -Dpackaging=jar -Dfile=./hTTP_Requests_for_Processing/0.1.3/httprequests_processing/library/httpclient-cache-4.1.2.jar
 
 mvn install:install-file -DgroupId=camera_3D -DartifactId=camera_3D -Dversion=1.2 -Dpackaging=jar -Dfile=./camera_3D/1.2/Camera3D/library/Camera3D.jar
@@ -384,6 +392,8 @@ mvn install:install-file -DgroupId=camera_3D -DartifactId=camera_3D -Dversion=1.
 mvn install:install-file -DgroupId=oBJLoader -DartifactId=oBJLoader -Dversion=0.99 -Dpackaging=jar -Dfile=./oBJLoader/0.99/OBJLoader/library/OBJLoader.jar
 
 mvn install:install-file -DgroupId=sound -DartifactId=sound -Dversion=2.0.2 -Dpackaging=jar -Dfile=./sound/2.0.2/sound/library/jsyn-20171016.jar
+
+mvn install:install-file -DgroupId=riTa -DartifactId=riTa -Dversion=1.3.89 -Dpackaging=jar -Dfile=./riTa/1.3.89/RiTa/library/rita.jar
 
 mvn install:install-file -DgroupId=post_To_Web -DartifactId=post_To_Web -Dversion=0.7 -Dpackaging=jar -Dfile=./post_To_Web/0.7/postToWeb/library/postToWeb.jar
 
@@ -506,6 +516,8 @@ mvn install:install-file -DgroupId=temboo -DartifactId=temboo -Dversion=2.20.0 -
 mvn install:install-file -DgroupId=queasyCam -DartifactId=queasyCam -Dversion=1.4 -Dpackaging=jar -Dfile=./queasyCam/1.4/queasycam/library/queasycam.jar
 
 mvn install:install-file -DgroupId=riTa -DartifactId=riTa -Dversion=1.1.39 -Dpackaging=jar -Dfile=./riTa/1.1.39/RiTa/library/rita.jar
+
+mvn install:install-file -DgroupId=temboo -DartifactId=temboo -Dversion=2.24.0 -Dpackaging=jar -Dfile=./temboo/2.24.0/temboo/library/choreos.jar
 
 mvn install:install-file -DgroupId=riTa -DartifactId=riTa -Dversion=1.1.27 -Dpackaging=jar -Dfile=./riTa/1.1.27/RiTa/library/rita.jar
 
