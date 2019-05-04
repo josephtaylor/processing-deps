@@ -31,6 +31,8 @@ mvn install:install-file -DgroupId=tracer -DartifactId=tracer -Dversion=0.0.0 -D
 
 mvn install:install-file -DgroupId=riTa -DartifactId=riTa -Dversion=1.1.51 -Dpackaging=jar -Dfile=./riTa/1.1.51/RiTa/library/rita.jar
 
+mvn install:install-file -DgroupId=hE_Mesh -DartifactId=hE_Mesh -Dversion=2019.0.0 -Dpackaging=jar -Dfile=./hE_Mesh/2019.0.0/hemesh/library/hemesh-external-6_0_0.jar
+
 mvn install:install-file -DgroupId=yahooWeather -DartifactId=yahooWeather -Dversion=0.91 -Dpackaging=jar -Dfile=./yahooWeather/0.91/YahooWeather/library/YahooWeather.jar
 
 mvn install:install-file -DgroupId=vSync_for_Processing -DartifactId=vSync_for_Processing -Dversion=v0.1 -Dpackaging=jar -Dfile=./vSync_for_Processing/v0.1/VSync/library/VSync.jar
@@ -186,6 +188,8 @@ mvn install:install-file -DgroupId=oOCSI_for_Processing -DartifactId=oOCSI_for_P
 mvn install:install-file -DgroupId=guido -DartifactId=guido -Dversion=0.0.4 -Dpackaging=jar -Dfile=./guido/0.0.4/Guido/library/Guido.jar
 
 mvn install:install-file -DgroupId=riTa -DartifactId=riTa -Dversion=1.1.38 -Dpackaging=jar -Dfile=./riTa/1.1.38/RiTa/library/rita.jar
+
+mvn install:install-file -DgroupId=gL_Video -DartifactId=gL_Video -Dversion=1.3 -Dpackaging=jar -Dfile=./gL_Video/1.3/glvideo/library/glvideo.jar
 
 mvn install:install-file -DgroupId=carnivore -DartifactId=carnivore -Dversion=7 -Dpackaging=jar -Dfile=./carnivore/7/carnivore/library/carnivore.jar
 
@@ -435,6 +439,8 @@ mvn install:install-file -DgroupId=sketchMapper -DartifactId=sketchMapper -Dvers
 
 mvn install:install-file -DgroupId=temboo -DartifactId=temboo -Dversion=2.19.0 -Dpackaging=jar -Dfile=./temboo/2.19.0/temboo/library/choreos.jar
 
+mvn install:install-file -DgroupId=intel_RealSense_for_Processing -DartifactId=intel_RealSense_for_Processing -Dversion=v2.17.0.2 -Dpackaging=jar -Dfile=./intel_RealSense_for_Processing/v2.17.0.2/RealSenseProcessing/library/RealSenseProcessing.jar
+
 mvn install:install-file -DgroupId=g4P -DartifactId=g4P -Dversion=4.0.4 -Dpackaging=jar -Dfile=./g4P/4.0.4/G4P/library/G4P.jar
 
 mvn install:install-file -DgroupId=simple_Receipt_Printer -DartifactId=simple_Receipt_Printer -Dversion=1.1 -Dpackaging=jar -Dfile=./simple_Receipt_Printer/1.1/simplereceiptprinter/library/simplereceiptprinter.jar
@@ -536,6 +542,8 @@ mvn install:install-file -DgroupId=picking -DartifactId=picking -Dversion=0.2.1 
 mvn install:install-file -DgroupId=mQTT -DartifactId=mQTT -Dversion=1.6.1 -Dpackaging=jar -Dfile=./mQTT/1.6.1/mqtt/library/mqtt.jar
 
 mvn install:install-file -DgroupId=sketchMapper -DartifactId=sketchMapper -Dversion=4.1.1 -Dpackaging=jar -Dfile=./sketchMapper/4.1.1/SketchMapper/library/SketchMapper.jar
+
+mvn install:install-file -DgroupId=riTa -DartifactId=riTa -Dversion=1.3.94 -Dpackaging=jar -Dfile=./riTa/1.3.94/RiTa/library/rita.jar
 
 mvn install:install-file -DgroupId=gaussSense_SDK_for_Processing -DartifactId=gaussSense_SDK_for_Processing -Dversion=1.0.3 -Dpackaging=jar -Dfile=./gaussSense_SDK_for_Processing/1.0.3/GaussSense/library/GaussSense.jar
 

@@ -187,6 +187,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### HE_Mesh - 2019.0.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;hE_Mesh&lt;/groupId&gt;
+	&lt;artifactId&gt;hE_Mesh&lt;/artifactId&gt;
+	&lt;version&gt;2019.0.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### YahooWeather - 0.91
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;yahooWeather&lt;/groupId&gt;
@@ -808,6 +816,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;riTa&lt;/groupId&gt;
 	&lt;artifactId&gt;riTa&lt;/artifactId&gt;
 	&lt;version&gt;1.1.38&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### GL Video - 1.3
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;gL_Video&lt;/groupId&gt;
+	&lt;artifactId&gt;gL_Video&lt;/artifactId&gt;
+	&lt;version&gt;1.3&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
@@ -1819,6 +1835,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Intel RealSense for Processing - v2.17.0.2
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;intel_RealSense_for_Processing&lt;/groupId&gt;
+	&lt;artifactId&gt;intel_RealSense_for_Processing&lt;/artifactId&gt;
+	&lt;version&gt;v2.17.0.2&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### G4P - 4.0.4
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;g4P&lt;/groupId&gt;
@@ -2224,6 +2248,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;sketchMapper&lt;/groupId&gt;
 	&lt;artifactId&gt;sketchMapper&lt;/artifactId&gt;
 	&lt;version&gt;4.1.1&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### RiTa - 1.3.94
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;riTa&lt;/groupId&gt;
+	&lt;artifactId&gt;riTa&lt;/artifactId&gt;
+	&lt;version&gt;1.3.94&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
