@@ -1019,6 +1019,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### PortMods - 1.40a
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;portMods&lt;/groupId&gt;
+	&lt;artifactId&gt;portMods&lt;/artifactId&gt;
+	&lt;version&gt;1.40a&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Ptmx - 0.3
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;ptmx&lt;/groupId&gt;
@@ -1832,14 +1840,6 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;temboo&lt;/groupId&gt;
 	&lt;artifactId&gt;temboo&lt;/artifactId&gt;
 	&lt;version&gt;2.19.0&lt;/version&gt;
-&lt;/dependency&gt;</code></pre>
-
-
-### Intel RealSense for Processing - v2.17.0.2
-<pre><code>&lt;dependency&gt;
-	&lt;groupId&gt;intel_RealSense_for_Processing&lt;/groupId&gt;
-	&lt;artifactId&gt;intel_RealSense_for_Processing&lt;/artifactId&gt;
-	&lt;version&gt;v2.17.0.2&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 

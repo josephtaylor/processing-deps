@@ -239,6 +239,8 @@ mvn install:install-file -DgroupId=gaussSense_SDK_for_Processing -DartifactId=ga
 
 mvn install:install-file -DgroupId=ignoCodeLib -DartifactId=ignoCodeLib -Dversion=0.4 -Dpackaging=jar -Dfile=./ignoCodeLib/0.4/IgnoCodeLib/library/IgnoCodeLib.jar
 
+mvn install:install-file -DgroupId=portMods -DartifactId=portMods -Dversion=1.40a -Dpackaging=jar -Dfile=./portMods/1.40a/PortMods/library/PortMods.jar
+
 mvn install:install-file -DgroupId=ptmx -DartifactId=ptmx -Dversion=0.3 -Dpackaging=jar -Dfile=./ptmx/0.3/ptmx/library/ptmx.jar
 
 mvn install:install-file -DgroupId=patchy -DartifactId=patchy -Dversion=200 -Dpackaging=jar -Dfile=./patchy/200/patchy/library/patchy.jar
@@ -438,8 +440,6 @@ mvn install:install-file -DgroupId=ptmx -DartifactId=ptmx -Dversion=0.2 -Dpackag
 mvn install:install-file -DgroupId=sketchMapper -DartifactId=sketchMapper -Dversion=4.0.0 -Dpackaging=jar -Dfile=./sketchMapper/4.0.0/SketchMapper/library/SketchMapper.jar
 
 mvn install:install-file -DgroupId=temboo -DartifactId=temboo -Dversion=2.19.0 -Dpackaging=jar -Dfile=./temboo/2.19.0/temboo/library/choreos.jar
-
-mvn install:install-file -DgroupId=intel_RealSense_for_Processing -DartifactId=intel_RealSense_for_Processing -Dversion=v2.17.0.2 -Dpackaging=jar -Dfile=./intel_RealSense_for_Processing/v2.17.0.2/RealSenseProcessing/library/RealSenseProcessing.jar
 
 mvn install:install-file -DgroupId=g4P -DartifactId=g4P -Dversion=4.0.4 -Dpackaging=jar -Dfile=./g4P/4.0.4/G4P/library/G4P.jar
 
