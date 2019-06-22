@@ -289,6 +289,8 @@ mvn install:install-file -DgroupId=bezierSQLib -DartifactId=bezierSQLib -Dversio
 
 mvn install:install-file -DgroupId=grafica -DartifactId=grafica -Dversion=1.5.0 -Dpackaging=jar -Dfile=./grafica/1.5.0/grafica/library/grafica.jar
 
+mvn install:install-file -DgroupId=sound -DartifactId=sound -Dversion=2.2.0 -Dpackaging=jar -Dfile=./sound/2.2.0/sound/library/jsyn-20171016.jar
+
 mvn install:install-file -DgroupId=iPCapture -DartifactId=iPCapture -Dversion=0.4.2 -Dpackaging=jar -Dfile=./iPCapture/0.4.2/IPCapture/library/IPCapture.jar
 
 mvn install:install-file -DgroupId=collada_Loader_for_Google_Sketchup -DartifactId=collada_Loader_for_Google_Sketchup -Dversion=3.0b -Dpackaging=jar -Dfile=./collada_Loader_for_Google_Sketchup/3.0b/colladaLoader/library/colladaLoader.jar
@@ -530,6 +532,8 @@ mvn install:install-file -DgroupId=riTa -DartifactId=riTa -Dversion=1.1.27 -Dpac
 mvn install:install-file -DgroupId=carnivore -DartifactId=carnivore -Dversion=8 -Dpackaging=jar -Dfile=./carnivore/8/carnivore/library/carnivore.jar
 
 mvn install:install-file -DgroupId=dashed_Lines -DartifactId=dashed_Lines -Dversion=0.0.3 -Dpackaging=jar -Dfile=./dashed_Lines/0.0.3/dashedlines/library/dashedlines.jar
+
+mvn install:install-file -DgroupId=squarify -DartifactId=squarify -Dversion=1.0.0 -Dpackaging=jar -Dfile=./squarify/1.0.0/Squarify/library/Squarify.jar
 
 mvn install:install-file -DgroupId=mapThing -DartifactId=mapThing -Dversion=1.4 -Dpackaging=jar -Dfile=./mapThing/1.4/MapThing/library/geoapi-2.3-M1.jar
 

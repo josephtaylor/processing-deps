@@ -1219,6 +1219,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Sound - 2.2.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;sound&lt;/groupId&gt;
+	&lt;artifactId&gt;sound&lt;/artifactId&gt;
+	&lt;version&gt;2.2.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### IPCapture - 0.4.2
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;iPCapture&lt;/groupId&gt;
@@ -2200,6 +2208,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;dashed_Lines&lt;/groupId&gt;
 	&lt;artifactId&gt;dashed_Lines&lt;/artifactId&gt;
 	&lt;version&gt;0.0.3&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Squarify - 1.0.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;squarify&lt;/groupId&gt;
+	&lt;artifactId&gt;squarify&lt;/artifactId&gt;
+	&lt;version&gt;1.0.0&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
