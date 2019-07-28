@@ -163,6 +163,8 @@ mvn install:install-file -DgroupId=temboo -DartifactId=temboo -Dversion=2.23.0 -
 
 mvn install:install-file -DgroupId=riTa -DartifactId=riTa -Dversion=1.1.35 -Dpackaging=jar -Dfile=./riTa/1.1.35/RiTa/library/rita.jar
 
+mvn install:install-file -DgroupId=gazeTrack_Eye_tracking_for_Processing_Tobii_EyeX_and_4C -DartifactId=gazeTrack_Eye_tracking_for_Processing_Tobii_EyeX_and_4C -Dversion=2.0.4 -Dpackaging=jar -Dfile=./gazeTrack_Eye_tracking_for_Processing_Tobii_EyeX_and_4C/2.0.4/GazeTrack/library/GazeTrack.jar
+
 mvn install:install-file -DgroupId=nest -DartifactId=nest -Dversion=0.7.0 -Dpackaging=jar -Dfile=./nest/0.7.0/Nest/library/Nest.jar
 
 mvn install:install-file -DgroupId=sketchMapper -DartifactId=sketchMapper -Dversion=3.0.1 -Dpackaging=jar -Dfile=./sketchMapper/3.0.1/SketchMapper/library/SketchMapper.jar
@@ -323,6 +325,8 @@ mvn install:install-file -DgroupId=punktiert -DartifactId=punktiert -Dversion=3.
 
 mvn install:install-file -DgroupId=colorScheme -DartifactId=colorScheme -Dversion=2.0.0 -Dpackaging=jar -Dfile=./colorScheme/2.0.0/ColorScheme/library/ColorScheme.jar
 
+mvn install:install-file -DgroupId=riTa -DartifactId=riTa -Dversion=1.1.60 -Dpackaging=jar -Dfile=./riTa/1.1.60/RiTa/library/rita.jar
+
 mvn install:install-file -DgroupId=oscP5 -DartifactId=oscP5 -Dversion=0.9.9 -Dpackaging=jar -Dfile=./oscP5/0.9.9/oscP5/library/oscP5.jar
 
 mvn install:install-file -DgroupId=superCollider_client_for_Processing -DartifactId=superCollider_client_for_Processing -Dversion=0.3.0 -Dpackaging=jar -Dfile=./superCollider_client_for_Processing/0.3.0/supercollider/library/supercollider.jar
@@ -338,6 +342,8 @@ mvn install:install-file -DgroupId=proscene -DartifactId=proscene -Dversion=3.0.
 mvn install:install-file -DgroupId=pixelFlow -DartifactId=pixelFlow -Dversion=0.55 -Dpackaging=jar -Dfile=./pixelFlow/0.55/PixelFlow/library/PixelFlow.jar
 
 mvn install:install-file -DgroupId=leapMotion -DartifactId=leapMotion -Dversion=1.26 -Dpackaging=jar -Dfile=./leapMotion/1.26/LeapMotion/library/LeapJava.jar
+
+mvn install:install-file -DgroupId=sound -DartifactId=sound -Dversion=2.2.2 -Dpackaging=jar -Dfile=./sound/2.2.2/sound/library/jsyn-20171016.jar
 
 mvn install:install-file -DgroupId=beads -DartifactId=beads -Dversion=1.01 -Dpackaging=jar -Dfile=./beads/1.01/beads/library/org-jaudiolibs-jnajack.jar
 
@@ -442,6 +448,8 @@ mvn install:install-file -DgroupId=ptmx -DartifactId=ptmx -Dversion=0.2 -Dpackag
 mvn install:install-file -DgroupId=sketchMapper -DartifactId=sketchMapper -Dversion=4.0.0 -Dpackaging=jar -Dfile=./sketchMapper/4.0.0/SketchMapper/library/SketchMapper.jar
 
 mvn install:install-file -DgroupId=temboo -DartifactId=temboo -Dversion=2.19.0 -Dpackaging=jar -Dfile=./temboo/2.19.0/temboo/library/choreos.jar
+
+mvn install:install-file -DgroupId=intel_RealSense_for_Processing -DartifactId=intel_RealSense_for_Processing -Dversion=v2.17.0.2 -Dpackaging=jar -Dfile=./intel_RealSense_for_Processing/v2.17.0.2/RealSenseProcessing/library/RealSenseProcessing.jar
 
 mvn install:install-file -DgroupId=g4P -DartifactId=g4P -Dversion=4.0.4 -Dpackaging=jar -Dfile=./g4P/4.0.4/G4P/library/G4P.jar
 

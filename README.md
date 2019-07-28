@@ -715,6 +715,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### GazeTrack: Eye-tracking for Processing (Tobii EyeX and 4C) - 2.0.4
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;gazeTrack_Eye_tracking_for_Processing_Tobii_EyeX_and_4C&lt;/groupId&gt;
+	&lt;artifactId&gt;gazeTrack_Eye_tracking_for_Processing_Tobii_EyeX_and_4C&lt;/artifactId&gt;
+	&lt;version&gt;2.0.4&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Nest - 0.7.0
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;nest&lt;/groupId&gt;
@@ -1427,6 +1435,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Sound - 2.2.2
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;sound&lt;/groupId&gt;
+	&lt;artifactId&gt;sound&lt;/artifactId&gt;
+	&lt;version&gt;2.2.2&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### Beads - 1.01
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;beads&lt;/groupId&gt;
@@ -1848,6 +1864,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;temboo&lt;/groupId&gt;
 	&lt;artifactId&gt;temboo&lt;/artifactId&gt;
 	&lt;version&gt;2.19.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Intel RealSense for Processing - v2.17.0.2
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;intel_RealSense_for_Processing&lt;/groupId&gt;
+	&lt;artifactId&gt;intel_RealSense_for_Processing&lt;/artifactId&gt;
+	&lt;version&gt;v2.17.0.2&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 
