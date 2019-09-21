@@ -211,6 +211,22 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 &lt;/dependency&gt;</code></pre>
 
 
+### Scratch - 1.9.0
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;scratch&lt;/groupId&gt;
+	&lt;artifactId&gt;scratch&lt;/artifactId&gt;
+	&lt;version&gt;1.9.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Steganos - 1.0.2
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;steganos&lt;/groupId&gt;
+	&lt;artifactId&gt;steganos&lt;/artifactId&gt;
+	&lt;version&gt;1.0.2&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
 ### ColorHarmony - 1.0
 <pre><code>&lt;dependency&gt;
 	&lt;groupId&gt;colorHarmony&lt;/groupId&gt;
@@ -1840,6 +1856,14 @@ to run processing you need at least this much in your <code>pom.xml</code> file:
 	&lt;groupId&gt;toxicLibs&lt;/groupId&gt;
 	&lt;artifactId&gt;toxicLibs&lt;/artifactId&gt;
 	&lt;version&gt;22&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
+
+
+### Sound - 2.2.3
+<pre><code>&lt;dependency&gt;
+	&lt;groupId&gt;sound&lt;/groupId&gt;
+	&lt;artifactId&gt;sound&lt;/artifactId&gt;
+	&lt;version&gt;2.2.3&lt;/version&gt;
 &lt;/dependency&gt;</code></pre>
 
 

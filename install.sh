@@ -37,6 +37,10 @@ mvn install:install-file -DgroupId=yahooWeather -DartifactId=yahooWeather -Dvers
 
 mvn install:install-file -DgroupId=vSync_for_Processing -DartifactId=vSync_for_Processing -Dversion=v0.1 -Dpackaging=jar -Dfile=./vSync_for_Processing/v0.1/VSync/library/VSync.jar
 
+mvn install:install-file -DgroupId=scratch -DartifactId=scratch -Dversion=1.9.0 -Dpackaging=jar -Dfile=./scratch/1.9.0/scratch/library/scratch.jar
+
+mvn install:install-file -DgroupId=steganos -DartifactId=steganos -Dversion=1.0.2 -Dpackaging=jar -Dfile=./steganos/1.0.2/Steganos/library/Steganos.jar
+
 mvn install:install-file -DgroupId=colorHarmony -DartifactId=colorHarmony -Dversion=1.0 -Dpackaging=jar -Dfile=./colorHarmony/1.0/colorharmony/library/colorharmony.jar
 
 mvn install:install-file -DgroupId=camera_3D -DartifactId=camera_3D -Dversion=1.0 -Dpackaging=jar -Dfile=./camera_3D/1.0/Camera3D/library/Camera3D.jar
@@ -442,6 +446,8 @@ mvn install:install-file -DgroupId=imageLoader -DartifactId=imageLoader -Dversio
 mvn install:install-file -DgroupId=box2D_for_Processing -DartifactId=box2D_for_Processing -Dversion=0.4 -Dpackaging=jar -Dfile=./box2D_for_Processing/0.4/box2d_processing/library/box2d_processing.jar
 
 mvn install:install-file -DgroupId=gL_Video -DartifactId=gL_Video -Dversion=1 -Dpackaging=jar -Dfile=./gL_Video/1/glvideo/library/glvideo.jar
+
+mvn install:install-file -DgroupId=sound -DartifactId=sound -Dversion=2.2.3 -Dpackaging=jar -Dfile=./sound/2.2.3/sound/library/jsyn-20171016.jar
 
 mvn install:install-file -DgroupId=ptmx -DartifactId=ptmx -Dversion=0.2 -Dpackaging=jar -Dfile=./ptmx/0.2/ptmx/library/ptmx.jar
 
